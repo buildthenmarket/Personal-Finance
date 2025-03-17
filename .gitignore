@@ -1,0 +1,24 @@
+# Ignore IDE specific files
+# Adjust these for your IDE if needed
+.idea/
+*.suo
+*.sln
+*.vbproj
+*.vcxproj
+
+# Ignore Windows Thumbnail cache
+thumbs.db
+
+# Ignore common OS temp files / backup files
+*.bak
+*.tmp
+*~
+
+# Ignore node_modules (if using a JS doc tool)
+node_modules/
+
+# Ignore macOS .DS_Store files
+.DS_Store
+
+# Ignore Linux Trash
+.Trash-*
