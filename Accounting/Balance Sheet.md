@@ -10,3 +10,5 @@
     -   Cash on hand (physical currency)
     -   Demand deposits (checking accounts)
     -   Highly liquid, short-term investments that can be easily converted to cash.
+
+think your venmo account balance or your paypal / cash app, etc
