@@ -49,7 +49,7 @@ A **1099-B** form is a tax document used in the United States to report proceeds
 
 2. **Capital Gains and Losses**: The 1099-B helps taxpayers report capital gains or losses on their income tax returns. This is important for calculating taxable income.
 
-3. **Cost Basis**: The form may include the cost basis, which is the original value of the asset, helping to determine the profit or loss from the sale.
+3. **Cost Basis**: The form may include the cost basis, which is the original value of the asset, helping to determine the profit or loss from the sale. checking your transaction history on the cryptocurrency exchanges or wallets you used in 2022. Most platforms provide records that include purchase dates and prices. If you used a personal wallet, you would need to refer to your own records. Cryptocurrency tax software can also help by connecting to your accounts and automatically tracking this information.
 
 4. **Multiple Transactions**: A single 1099-B can report multiple transactions, summarizing various sales over the tax year.
 

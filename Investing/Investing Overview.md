@@ -93,3 +93,5 @@ Remember, this is a general framework, and it's crucial to conduct your own rese
 Approaches in either stock or mutual fund investing. Growth investors look for companies with strong earnings. Value investors look for companies that are undervalued. Both approaches can help diversify and balance a portfolio.
 
 ### Which one has better performance?
+
+## Investment Growth Assessment
