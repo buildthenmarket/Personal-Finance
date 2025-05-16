@@ -1,6 +1,7 @@
 # Credit Score
 
 - One in ten adults and 50% of all 18-24 year olds are credit invisible!
+- It can feel unfair because credit scores reflect circumstances beyond control (e.g., medical emergencies, unemployment), not just financial habits.
 
 ## Links
 
