@@ -168,3 +168,39 @@ So, it's more accurate to say that budgeting alone can't eradicate poverty. But 
 | 65+ | $11,750,000 |
 
 ![goals](<static/new%20years%20resolutions%20ideas.png>)
+
+You're touching upon a widely discussed idea, often summarized by the saying "shirtsleeves to shirtsleeves in three generations." This proverb suggests that it typically takes three generations for a family to lose the wealth accumulated by the first generation.
+
+Here's a breakdown of why this "reset" can happen:
+
+**The Builder Generation:**
+
+* **Grit and Sacrifice:** The first generation usually builds wealth through hard work, determination, and often significant personal sacrifice. They have a deep understanding of the value of money because they earned it.
+* **Direct Connection to Effort:** They have a strong connection between their labor and their financial success.
+
+**The Steward Generation:**
+
+* **Familiarity but Less Direct Experience:** The second generation often grows up with some awareness of their parents' struggles and the effort involved in creating the wealth. They may have witnessed the sacrifices firsthand.
+* **Comfort and Entitlement:** However, they also experience a more comfortable lifestyle and may develop a sense of entitlement simply by virtue of their inheritance.
+* **Potential for Poor Management:** Without the same drive or understanding of wealth creation, they might not manage the wealth as effectively, sometimes due to lack of financial literacy or a different set of priorities.
+
+**The Consumer Generation:**
+
+* **Distance from Origin:** The third generation is often the furthest removed from the source of the wealth. They have typically grown up in affluence without experiencing the hardships or understanding the principles that led to its creation.
+* **Lack of Appreciation:** They may take the wealth for granted and lack a true appreciation for its value and the effort required to maintain it.
+* **Dilution through Inheritance:** As the family grows, the original wealth is often divided among more and more descendants, naturally diluting each individual's share.
+* **Different Priorities and Lifestyles:** Their values and lifestyles may differ significantly from the wealth-building generations, leading to spending habits that deplete the inheritance.
+* **Lack of Financial Acumen:** They may not have been taught or may not prioritize learning how to manage and grow the wealth effectively.
+
+**However, it's crucial to understand that this "three-generation curse" is not an absolute rule.** Many families successfully preserve and grow their wealth beyond three generations. Here are some factors that can help break this cycle:
+
+* **Financial Education and Literacy:** Educating subsequent generations about wealth management, investing, and the importance of financial responsibility is key.
+* **Strong Family Values and Communication:** Establishing clear family values around wealth and fostering open communication about finances can help align goals and expectations.
+* **Professional Guidance:** Engaging financial advisors, estate planners, and other professionals can provide expertise in managing and transferring wealth effectively.
+* **Instilling a Strong Work Ethic and Purpose:** Encouraging each generation to find their own passions and develop a strong work ethic, independent of the inherited wealth, can provide a sense of purpose and prevent complacency.
+* **Creating a Shared Family Legacy:** Focusing on the long-term vision for the family's wealth and instilling a sense of stewardship rather than ownership can encourage responsible management.
+* **Strategic Philanthropy:** Engaging in philanthropy can provide a sense of purpose and connect the family's wealth to a larger societal impact.
+* **Careful Estate Planning:** Implementing robust estate plans that consider tax implications and provide clear guidelines for wealth transfer can help preserve assets.
+
+So, while there's a historical tendency for wealth to diminish over three generations due to the factors mentioned, it's not an inevitable outcome. With careful planning, education, and a focus on long-term stewardship, families can certainly buck this trend.
+

@@ -2,7 +2,7 @@
 
 ## Beginner Steps
 
-![Tips for Beginners](image-2.png)
+![Tips for Beginners](static/Tips%20for%20beginners.png)
 
 - pay off all debts first
 
@@ -58,21 +58,7 @@ During volatile market periods, like the one you might be experiencing now, taki
 
 Remember, these are general guidelines. The best course of action for your portfolio will depend on your individual circumstances.
 
-![Fin Planning](image.png)
-
-![risk pyramid 1](<static/investment risk pyramid 1.png>)
-
-## 3 Level Risk Pyramid
-
-![3 Level Risk Pyramid](<static/3 Level Risk Pyramid.png>)
-
-## 5 Level Risk Pyramid
-
-![5 Level Risk Pyramid](<static/5 Level Risk Pyramid.png>)
-
-## 4 Level Risk Pyramid
-
-![4 Level Risk Pyramid](<static/4 Level Risk Pyramid.png>)
+![Fin Planning](static/image.png)
 
 ## Allocation
 
