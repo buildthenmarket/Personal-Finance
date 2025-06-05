@@ -2,55 +2,11 @@
 
 ## passive and residual income streams:
 
-### 1. Maximize Your Current Income:
-
-* Negotiate your salary: Don't underestimate your value. Research industry benchmarks and confidently negotiate for raises and promotions.
-* Performance-based bonuses: Aim for roles with bonus structures tied to company performance or specific achievements.
-* Equity and stock options: Inquire about equity or stock options, especially in startups or growing companies. These can become very valuable over time.
-
 ### 2. Strategic Investments:
 
 * Diversify your portfolio: Invest in a mix of assets like stocks, bonds, real estate, and index funds to spread risk and potentially maximize returns.1
 * Long-term perspective: Focus on long-term investments rather than trying to time the market. Consistency is key.
 * Consult a financial advisor: A professional can help you create a personalized investment strategy based on your risk tolerance and financial goals.2
-
-### 3. Cultivate Passive and Residual Income:
-
-* Real Estate:
-    * Rental properties: While time-consuming, rental income can be a significant source of passive income.3 Consider hiring a property manager to handle day-to-day tasks.
-    * REITs (Real Estate Investment Trusts): Invest in REITs to gain exposure to the real estate market without the hassle of property management.4
-* Content Creation:
-    * Write a book: Share your expertise and generate royalties through book sales.
-    * Create online courses: Develop and sell online courses on platforms like Udemy or Coursera.
-    * Start a blog or YouTube channel: Build an audience and monetize through advertising, sponsorships, or affiliate marketing.5
-* Software and Apps:
-    * Develop a SaaS (Software as a Service) product: If you have a great idea and the technical skills, create and sell a software product.
-    * Build a mobile app: Create a useful app and monetize it through in-app purchases or advertising.
-* Affiliate Marketing:
-    * Promote products or services: Partner with companies and earn commissions for every sale made through your unique affiliate link.6
-* Peer-to-Peer Lending:
-    * Lend money to individuals or businesses: Platforms like LendingClub connect borrowers and lenders.7 Be sure to research the risks involved.
-
-### 4. Leverage Your Expertise:
-
-* Consulting: Offer your expertise as a consultant to other companies or startups. This can be done on a part-time basis and can be quite lucrative.
-* Angel Investing: Invest in early-stage startups. This is a higher risk but potentially high-reward strategy.
-* Advisory Roles: Seek out advisory positions with companies in your industry.
-
-### 5. Time Management and Productivity:
-
-* Prioritize and delegate: Focus on high-impact tasks and delegate or outsource less critical activities.
-* Time blocking: Schedule specific time blocks for working on your side hustles or investments.
-* Automate tasks: Use tools and software to automate repetitive tasks and free up your time.8
-Important Considerations:
-* Start small and scale: Don't try to do everything at once. Start with one or two passive income streams and gradually expand as you gain experience and confidence.
-* Be patient: Building passive income takes time and effort. Don't get discouraged if you don't see results immediately.
-* Continuous learning: Stay updated on industry trends, investment strategies, and new opportunities.
-Remember:
-* Consistency is key: Even small, consistent efforts over time can lead to significant results.
-* Don't quit your day job (yet): Focus on building your passive income streams to a sustainable level before considering leaving your full-time job.
-* Seek professional advice: Consult with financial advisors, tax professionals, and legal experts to make informed decisions.
-By strategically leveraging your skills, time, and resources, a busy CTO can increase their income potential and work towards achieving financial independence and millionaire status.
 
 ![basic](static/10%20step%20list.png)
 
@@ -93,34 +49,34 @@ In his speech “[Investing with Simplicity](http://johncbogle.com/wordpress/wp-
 ## Personal Finance Terms and Strategies
 
 1. **Zero-Based Budgeting:**
-   - A budgeting method where every dollar is allocated to specific expenses, savings, or debt repayment, leaving a balance of zero. This approach ensures that you are intentional with your spending.
+   * A budgeting method where every dollar is allocated to specific expenses, savings, or debt repayment, leaving a balance of zero. This approach ensures that you are intentional with your spending.
 
 2. **50/30/20 Rule:**
-   - A simple budgeting guideline that suggests allocating 50% of your income to needs, 30% to wants, and 20% to savings or debt repayment. This balance can promote financial stability and happiness.
+   * A simple budgeting guideline that suggests allocating 50% of your income to needs, 30% to wants, and 20% to savings or debt repayment. This balance can promote financial stability and happiness.
 
 3. **Emergency Fund:**
-   - A savings fund set aside for unexpected expenses. Having an emergency fund can provide peace of mind and reduce stress during financial uncertainties.
+   * A savings fund set aside for unexpected expenses. Having an emergency fund can provide peace of mind and reduce stress during financial uncertainties.
 
 4. **Mindful Spending:**
-   - Being conscious of your spending habits and making intentional choices about purchases. This practice encourages spending on things that genuinely bring joy and satisfaction.
+   * Being conscious of your spending habits and making intentional choices about purchases. This practice encourages spending on things that genuinely bring joy and satisfaction.
 
 5. **Cash Envelopes:**
-   - A physical budgeting method where cash is allocated to different spending categories (e.g., groceries, entertainment) in separate envelopes. Once the cash is gone, no more spending occurs in that category.
+   * A physical budgeting method where cash is allocated to different spending categories (e.g., groceries, entertainment) in separate envelopes. Once the cash is gone, no more spending occurs in that category.
 
 6. **Sinking Funds:**
-   - Savings set aside for specific future expenses (e.g., vacations, holidays, car repairs). This strategy helps avoid financial stress when these expenses arise.
+   * Savings set aside for specific future expenses (e.g., vacations, holidays, car repairs). This strategy helps avoid financial stress when these expenses arise.
 
 7. **Needs vs. Wants Analysis:**
-   - A practice of distinguishing between essential expenses (needs) and discretionary spending (wants). This clarity can help prioritize spending and enhance satisfaction.
+   * A practice of distinguishing between essential expenses (needs) and discretionary spending (wants). This clarity can help prioritize spending and enhance satisfaction.
 
 8. **Spending Freeze:**
-   - A temporary halt on non-essential spending to focus on saving or paying down debt. This can create a sense of financial control and relief.
+   * A temporary halt on non-essential spending to focus on saving or paying down debt. This can create a sense of financial control and relief.
 
 9. **Gratitude Journaling:**
-   - Keeping a journal to note things you are thankful for, particularly related to your finances. This practice can enhance happiness and perspective on what you have versus what you want.
+   * Keeping a journal to note things you are thankful for, particularly related to your finances. This practice can enhance happiness and perspective on what you have versus what you want.
 
 10. **Value-Based Spending:**
-    - Aligning your spending with your personal values and priorities. This approach fosters a sense of fulfillment by ensuring that your money goes towards what truly matters to you.
+    * Aligning your spending with your personal values and priorities. This approach fosters a sense of fulfillment by ensuring that your money goes towards what truly matters to you.
 
 ### Summary
 
@@ -136,21 +92,54 @@ Implementing these personal finance strategies can help create a healthier relat
 
 ## There's a lot of truth to the statement "you can't budget your way out of poverty." Here's why
 
-- **Limited resources:**  When your income barely covers basic needs like food and rent, there's little room for budgeting to create a significant surplus. Cutting corners can only go so far.
-- **Systemic factors:** Poverty often goes hand-in-hand with low wages, lack of access to education or healthcare, and discrimination. Budgeting can't fix these underlying issues.
-- **Unexpected costs:**  Life throws curveballs. Even a small car repair or medical bill can derail a tight budget for someone in poverty.
+* **Limited resources:**  When your income barely covers basic needs like food and rent, there's little room for budgeting to create a significant surplus. Cutting corners can only go so far.
+* **Systemic factors:** Poverty often goes hand-in-hand with low wages, lack of access to education or healthcare, and discrimination. Budgeting can't fix these underlying issues.
+* **Unexpected costs:**  Life throws curveballs. Even a small car repair or medical bill can derail a tight budget for someone in poverty.
 
 However, budgeting isn't entirely useless. It can help:
 
-- **Gain control:**  Understanding where your money goes empowers you to make informed choices, even with limited resources.
-- **Stretch your income:**  Finding ways to save on groceries, transportation, or utilities can free up a little extra cash.
-- **Build financial literacy:**  Budgeting is a skill that can benefit you throughout your life, even if it doesn't solve poverty on its own.
+* **Gain control:**  Understanding where your money goes empowers you to make informed choices, even with limited resources.
+* **Stretch your income:**  Finding ways to save on groceries, transportation, or utilities can free up a little extra cash.
+* **Build financial literacy:**  Budgeting is a skill that can benefit you throughout your life, even if it doesn't solve poverty on its own.
 
 So, it's more accurate to say that budgeting alone can't eradicate poverty. But it can be a helpful tool alongside efforts to address the root causes of poverty, like job training, affordable housing initiatives, and a living wage.  
 
 ## US Class Distinctions and Income Brackets
 
 ![Socioeconomic Classes](<static/US Class Distinctions and Income Brackets.jpeg>)
+
+Yes, classism absolutely exists in personal finance advising, both in the advice itself and in how it's delivered, including in personal finance books. Here's how:
+
+**1. Assumptions about resources and starting points:**
+
+* **"Pull yourself up by your bootstraps" mentality:** Many personal finance narratives assume a baseline level of income, savings, and access to resources that simply isn't a reality for everyone. Advice often focuses on saving for retirement, investing in the stock market, or buying a home, which are difficult or impossible without disposable income and a stable financial foundation.
+* **Ignoring systemic barriers:** Financial advice often overlooks the systemic inequalities (like stagnant wages, predatory lending in low-income areas, and unequal access to education and healthcare) that disproportionately affect people from lower socioeconomic backgrounds. This can make it seem like financial struggles are purely due to individual choices, rather than broader societal issues.
+* **"Knowledge of the Hidden Rules of Social Class":** Some frameworks highlight that different social classes operate with different "hidden rules" regarding money, work, and social interactions. Personal finance advice often implicitly assumes a middle-class or upper-class understanding of these rules, making it less accessible or even irrelevant to those from different backgrounds.
+
+**2. Focus on specific types of clients/assets:**
+
+* **High net worth bias:** Traditional financial advising often caters to individuals with significant assets, as this is where advisors earn higher fees. This leaves many people with lower incomes or less wealth underserved or feeling like financial advice isn't "for them."
+* **Exclusionary language and jargon:** Financial advice can be filled with complex jargon and concepts that are intimidating and difficult to understand for those without a financial background. This can create a barrier to entry for many.
+
+**3. Lack of representation and trust:**
+
+* **Homogenous financial advisor demographics:** The financial advising industry has historically lacked diversity. People from marginalized backgrounds may find it difficult to connect with advisors who don't understand their unique experiences or who come from a different socioeconomic reality. This can lead to a lack of trust in financial institutions and advisors.
+* **Impact of historical discrimination:** Historically, certain groups have been excluded from financial systems or subjected to discriminatory practices (e.g., redlining). This history impacts current trust and access to financial services.
+
+**4. Advice that isn't universally applicable:**
+
+* **Budgeting advice:** While well-intentioned, advice to "cut out your daily latte" can be tone-deaf and unhelpful for someone struggling to afford basic necessities. For many, there's no "fat" to trim in their budget.
+* **Investment strategies:** Complex investment strategies presented in books or by advisors may not be appropriate or accessible for those with limited capital or who prioritize immediate financial stability over long-term growth.
+* **Debt management:** Advice on debt often doesn't differentiate between "good debt" (like a mortgage) and "bad debt" (like high-interest credit card debt) or acknowledge the structural reasons people accrue debt (e.g., medical emergencies, lack of living wage).
+
+**Examples in books and media:**
+
+While many personal finance books aim to be helpful, some are criticized for:
+
+* **"Rich Dad Poor Dad"**: This book has been critiqued for its anecdotal and sometimes oversimplified advice, and for promoting real estate speculation without adequately addressing the risks or the initial capital required, potentially perpetuating a "get rich quick" mentality that isn't feasible for everyone.
+* **Generic budgeting guides:** Some books offer one-size-fits-all budgeting templates that don't account for varying income levels, essential expenses, or financial emergencies common in lower-income households.
+
+In conclusion, while the intention of personal finance advising is often to empower individuals, the underlying assumptions, accessibility issues, and historical context can lead to classist outcomes that reinforce existing wealth disparities. Addressing classism requires a more nuanced, inclusive, and systemic approach to financial education and advising.
 
 ## 1% of Your Age
 
@@ -203,4 +192,3 @@ Here's a breakdown of why this "reset" can happen:
 * **Careful Estate Planning:** Implementing robust estate plans that consider tax implications and provide clear guidelines for wealth transfer can help preserve assets.
 
 So, while there's a historical tendency for wealth to diminish over three generations due to the factors mentioned, it's not an inevitable outcome. With careful planning, education, and a focus on long-term stewardship, families can certainly buck this trend.
-
