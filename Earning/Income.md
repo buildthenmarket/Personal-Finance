@@ -1,3 +1,5 @@
+![Types of Income](<types of income.jpg>)
+
 ## 1. Maximize Your Current Income:
 
 * Negotiate your salary: Don't underestimate your value. Research industry benchmarks and confidently negotiate for raises and promotions.

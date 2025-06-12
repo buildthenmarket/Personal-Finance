@@ -1,5 +1,7 @@
 # Personal Finance
 
+![Financial Literacy](<static/Financial Literacy.jpg>)
+
 ## passive and residual income streams:
 
 ### 2. Strategic Investments:
