@@ -194,3 +194,7 @@ Here's a breakdown of why this "reset" can happen:
 * **Careful Estate Planning:** Implementing robust estate plans that consider tax implications and provide clear guidelines for wealth transfer can help preserve assets.
 
 So, while there's a historical tendency for wealth to diminish over three generations due to the factors mentioned, it's not an inevitable outcome. With careful planning, education, and a focus on long-term stewardship, families can certainly buck this trend.
+
+## Clickbait claim > 80% of billionaires never went to college
+
+Research from Wealth-X, cited in a 2016 CNBC article, found that 30% of billionaires globally do not have a bachelor's degree, meaning 70% do have at least a bachelor's degree. This is far from the 80% claim. Additionally, a Forbes analysis of the 2017 Forbes 400 list of the richest Americans showed that 84% of the top 400 wealthiest individuals in the U.S. hold a bachelor's degree or higher, with only 45 out of 400 (11.25%) being college dropouts and 23 (5.75%) never attending college. A GoCompare study of Forbes’ top 100 billionaires over 20 years found that 76% have a degree, with 47% holding a bachelor's, 23% a master's, and 6% a doctorate.
