@@ -1,5 +1,7 @@
 # Risk
 
+![Top 20 Mistakes](<static/20 Common Investing Mistakes.jpeg>)
+
 ![risks](static/Risk%20Types.png)
 
 ![handle risk](static/image-3.png)
