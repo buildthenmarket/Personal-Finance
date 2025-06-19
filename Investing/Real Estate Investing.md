@@ -1,4 +1,10 @@
-# real estate investment
+# Real Estate: The Castle of Passive Income
+
+- **Property Investment**: Start with one property and expand. Real estate can be your moat, protecting your wealth and providing a steady stream of income. Remember, land doesn’t tweet or post on social media; it appreciates in silence.
+
+- **House Hacking**: Live in one part of a multi-unit property while renting out the others. It's like having your cake and renting it out too.
+
+## real estate investment
 
 - **Real Estate:** Real estate refers to land and the buildings on it. Investors can invest in real estate directly by purchasing property, or they can invest in real estate investment trusts (REITs), which are companies that own and operate income-producing real estate. Real estate can offer high returns, but it is also a less liquid investment than stocks and bonds.
 

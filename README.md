@@ -1,5 +1,7 @@
 # Personal Finance
 
+![](static/stages%20of%20wealth.png)
+
 ![Financial Literacy](<static/Financial Literacy.jpg>)
 
 ## passive and residual income streams:
