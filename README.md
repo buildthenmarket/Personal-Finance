@@ -1,6 +1,8 @@
 # Personal Finance
 
-![](static/stages%20of%20wealth.png)
+![Fin KPIs](static/KPIs.png)
+
+![Stages of Wealth](static/stages%20of%20wealth.png)
 
 ![Financial Literacy](<static/Financial Literacy.jpg>)
 

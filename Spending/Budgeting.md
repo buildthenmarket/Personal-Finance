@@ -1,5 +1,7 @@
 # Budgeting
 
+![Money Management](static/Budget%2050%2040%2010.png)
+
 ![50, 30, 20](static/50-30-20.png)
 
 [numbeo - Numbeo is the world’s largest cost of living database.](https://www.numbeo.com/cost-of-living/)
