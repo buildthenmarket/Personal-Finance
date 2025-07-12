@@ -1,8 +1,10 @@
-# **4. Investments: The Treasure Chest**
+# Investments: The Treasure Chest
 
 - **Stock Market**: Invest wisely in stocks, ETFs, or mutual funds. Think of the stock market as a vast, mysterious forest where fortunes can be made if you learn the paths.
 
 - **Alternative Investments**: Look into things like venture capital, commodities, or even art if you fancy. Diversifying is like having different types of armor for different battles.
+
+![](static/investing%20order.png)
 
 ## Asset Classes
 

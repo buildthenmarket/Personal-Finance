@@ -92,6 +92,7 @@ primary goal is to minimize risk and prioritize capital preservation, then focus
 - This strategy prioritizes safety over high returns. You may experience lower growth compared to aggressive investment approaches.
 - Inflation can erode the purchasing power of your money over time. Consider a small allocation to inflation-protected assets like TIPS (Treasury Inflation-Protected Securities) to hedge against inflation.
 
+![](static/budgeting.png)
 
 ### Your recurring payments may include:
 

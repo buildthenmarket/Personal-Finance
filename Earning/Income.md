@@ -1,4 +1,4 @@
-![Types of Income](<types of income.jpg>)
+![Types of Income](<static/types%20of%20income.jpg>)
 
 ## 1. Maximize Your Current Income:
 

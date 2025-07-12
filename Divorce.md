@@ -1,30 +1,5 @@
 # Divorce
 
-## Average Length of US Marriages and Divorces
-
-Based on the provided search results, here's an explanation of the psychology behind the average 7-year duration for friendships and 8-year duration for marriages in the United States:
-
-**Friendships (7 years):**
-
-1. **Socialization and bonding**: Friendships often begin with shared experiences, common interests, or social connections. As individuals spend time together, they develop emotional bonds and a sense of belonging. After 7 years, these bonds may start to weaken due to changes in life circumstances, such as:
-	* Career shifts or promotions, leading to differing schedules and priorities.
-	* Moving to new locations, making it harder to maintain regular interactions.
-	* Changes in personal values or interests, causing friends to drift apart.
-2. **Drift and differentiation**: Friendships naturally undergo a process of drift and differentiation, where individuals grow and evolve separately. As people mature, their interests, values, and lifestyles may diverge, making it challenging to maintain the same level of closeness.
-3. **Lack of formal commitment**: Friendships typically lack the formal commitment and expectations that come with romantic relationships or marriages. Without explicit agreements or rituals, friendships may not have the same level of investment or maintenance, leading to a natural decline over time.
-
-**Marriages (8 years):**
-
-1. **Romantic infatuation and adjustment**: Marriages often begin with intense romantic feelings, which gradually give way to a more stable, long-term partnership. The initial excitement and novelty wear off, and couples must adapt to each other's quirks, habits, and differences.
-2. **Couples' growth and change**: As individuals grow and evolve, their needs, desires, and expectations may shift. Marriages require ongoing effort and communication to navigate these changes and maintain a sense of connection.
-3. **Inertia and complacency**: After several years, couples may fall into a pattern of complacency, taking each other for granted. Without intentional effort to maintain the relationship, the spark and excitement can fade, leading to a natural decline in satisfaction and ultimately, divorce.
-4. **Social and cultural pressures**: Societal expectations and cultural norms can influence marriage duration. For example, the "7-year itch" phenomenon, where couples experience a decline in satisfaction around the 7-year mark, may be exacerbated by external pressures, such as:
-	* Changing family dynamics (e.g., having children).
-	* Career demands and stress.
-	* Social media comparisons and unrealistic relationship expectations.
-
-Keep in mind that these explanations are generalizations and may not apply to every individual or couple. Factors like personal characteristics, relationship quality, and external circumstances can significantly influence the duration of friendships and marriages.
-
 ## Qualified Domestic Relations Order (QDRO)
 
 ### How are assets divided?
