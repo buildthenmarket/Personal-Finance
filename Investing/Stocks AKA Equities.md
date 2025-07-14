@@ -1,5 +1,7 @@
 # Equities aka Stocks
 
+![](static/how%20to%20value%20a%20stock.png)
+
 ## buy a little bit every day, buy around the bottom
 
 ## time horizon

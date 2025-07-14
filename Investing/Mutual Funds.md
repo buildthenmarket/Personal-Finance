@@ -1,5 +1,7 @@
 # MUTUAL FUND
 
+![](types%20of%20Mutual%20Funds.png)
+
 ## MUTUAL FUND CLASSES
 
 ## How many different class types?

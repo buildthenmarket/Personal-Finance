@@ -85,7 +85,9 @@ Here's a low-risk phase-in strategy for an investor to systematically invest cas
 
 - Regularly monitor your portfolio performance and rebalance as needed to maintain your desired asset allocation. Rebalancing helps maintain your risk tolerance by buying or selling assets to keep your portfolio aligned with your initial goals.
 
-**Additional tips for low-risk investors:**
+## low-risk Approach
+
+![](static/Diverify%20Portfolio.png)
 
 - **Start small and gradually increase your investment amount over time as you gain comfort.**
 - **Diversify your portfolio across different asset classes to mitigate risk.**

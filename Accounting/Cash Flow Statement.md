@@ -3,6 +3,8 @@ The Cash Flow Statement (What Really Matters)
 
 For companies that are generating positive cash flows (see below), the cash flow statement becomes the most critical piece of accounting as it tracks the movement of real cash (not adjusted for accounting values like depreciation). It is possible, through accounting metrics, that companies can be generating tons of cash, but not show any profits (and vice versa!). This is why cash flows matter. There are three cash flow buckets to track:
 
+![](static/tracking%20frequency.png)
+
 | Cash Flows from Operations | |
 | --- | --- |
 | Net Income | $5,981 |
