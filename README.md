@@ -1,5 +1,7 @@
 # Personal Finance
 
+ it’s extremely expensive to be poor
+
 ![Fin KPIs](static/KPIs.png)
 
 ![Stages of Wealth](static/stages%20of%20wealth.png)
@@ -114,7 +116,9 @@ So, it's more accurate to say that budgeting alone can't eradicate poverty. But 
 
 ![Socioeconomic Classes](<static/US Class Distinctions and Income Brackets.jpeg>)
 
-Yes, classism absolutely exists in personal finance advising, both in the advice itself and in how it's delivered, including in personal finance books. Here's how:
+Classism in personal finance
+
+A cynic might scoff at "life is what you make of it" because it oversimplifies complex realities. The phrase implies personal effort alone shapes outcomes, ignoring systemic barriers, luck, or circumstances beyond control—like economic hardship, health issues, or social inequities. To them, it sounds like naive optimism or a dismissive platitude, blaming individuals for systemic failures. Sarcasm would be their way of rejecting this perceived oversimplification, mocking the idea that sheer willpower can conquer all obstacles.
 
 **1. Assumptions about resources and starting points:**
 
