@@ -20,6 +20,8 @@ cost of living for a single person in New Jersey in 2025
 
 Keep in mind that these are estimates, and the actual livable income can vary based on individual spending habits, location within New Jersey (some areas are more expensive than others), and lifestyle.
 
+![support yourself with multiple incomes](<static/support yourself with multiple incomes.jpeg>)
+
 ## 3. Cultivate Passive and Residual Income
 
 * Leverage Your Expertise
