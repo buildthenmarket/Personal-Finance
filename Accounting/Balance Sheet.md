@@ -1,8 +1,8 @@
 # balance sheet
 
-![balance sheet](image-1.png)
+![balance sheet](static/Making-sense-of-your-balance-sheet.png)
 
-![Balance Sheet Accounting Mind Map](image-2.png)
+![Balance Sheet Accounting Mind Map](static/Balance-Sheet-Mind-Map.png)
 
 **Cash and Cash Equivalents (CCE):**
 

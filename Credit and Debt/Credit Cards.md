@@ -1,4 +1,21 @@
-# using a credit card to avoid interest charges and maximize benefits
+| Credit Card                     | U.S. Lounges Accessible                              | Global Lounges Accessible                    | Lounge Networks Included                       | Annual Fee (2025) | Notes                              |
+| ------------------------------- | ---------------------------------------------------- | -------------------------------------------- | ---------------------------------------------- | ----------------- | ---------------------------------- |
+| **Amex Platinum**               | \~20+ Centurion Lounges + Priority Pass (\~130)      | \~1,300+ (Centurion + Priority Pass + Delta) | Amex Centurion, Priority Pass, Delta Sky Clubs | \$695             | Best premium access worldwide      |
+| **Chase Sapphire Reserve**      | \~1,300+ Priority Pass lounges globally (many in US) | \~1,300+ Priority Pass lounges globally      | Priority Pass Select                           | \$550             | Large Priority Pass network        |
+| **Capital One Venture X**       | \~10 Capital One Lounges + Priority Pass (\~130)     | \~1,300+ Priority Pass + Capital One Lounges | Capital One Lounges, Priority Pass             | \$395             | Growing Capital One lounge network |
+| **Citi / AAdvantage Executive** | \~50+ Admirals Clubs in US and few global locations  | \~50+ Admirals Clubs + limited Priority Pass | Admirals Club, limited Priority Pass           | \$450             | Focused on American Airlines       |
+| **Delta SkyMiles Reserve Amex** | \~50+ Delta Sky Clubs in US + some global            | \~50+ Delta Sky Clubs + Centurion (limited)  | Delta Sky Clubs, limited Amex Centurion access | \$550             | Great for Delta flyers             |
+
+| Number of Cards Held | Approximate % of Cardholders |  Average Total Credit Limit (USD) | Notes |
+| --- |  --- |  --- | --- |
+| **1--2 cards** | ~35% |   \$5,000 – \$12,000               | Lower credit availability, often new or cautious users Many casual users or credit builders |
+| **3--5 cards** | ~40% |  \$15,000 – \$40,000              | Most common range for working adults                  Most typical range for average consumers |
+| **6--9 cards** | ~18% |      \$40,000 – \$90,000              | Reward seekers, higher income                          Often rewards-focused or higher income users |
+| **10 or more cards** | ~7% |    \$90,000+                        | Credit enthusiasts, business owners                    | Credit enthusiasts or business users |
+
+low-income = fewer cards; high-income = more cards to leverage benefits and credit capacity.
+
+## avoid interest charges and maximize benefits
 
 **Fundamentals:**
 

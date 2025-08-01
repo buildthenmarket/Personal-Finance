@@ -8,7 +8,7 @@
 
 ## Asset Classes
 
-![types of assets](image.png)
+![types of assets](static/Asset-Classes.png)
 
 Asset classes are groupings of investments that share similar characteristics and behave in a similar way in the market. They are a way to categorize investments and help investors diversify their portfolios. Here are the major asset classes:
 

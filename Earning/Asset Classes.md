@@ -1,1 +1,1 @@
-![](static/Asset%20Classes.png)
+![asset](static/Asset%20Classes.png)
