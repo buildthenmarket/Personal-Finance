@@ -1,5 +1,7 @@
 # Investments: The Treasure Chest
 
+![alt text](static/Asset-Comparison.png)
+
 - **Stock Market**: Invest wisely in stocks, ETFs, or mutual funds. Think of the stock market as a vast, mysterious forest where fortunes can be made if you learn the paths.
 
 - **Alternative Investments**: Look into things like venture capital, commodities, or even art if you fancy. Diversifying is like having different types of armor for different battles.
