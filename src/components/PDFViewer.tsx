@@ -31,7 +31,11 @@ export default function PDFViewer({ src, title }: PDFViewerProps): JSX.Element {
           title={title}
           className={styles.pdfFrame}
           frameBorder="0"
+          onError={() => console.error(`Failed to load PDF: ${title}`)}
         />
+        <p style={{ marginTop: '1rem', color: 'var(--ifm-color-danger)' }}>
+          If PDF doesn't load, try using the download button above.
+        </p>
       </div>
     </div>
   );

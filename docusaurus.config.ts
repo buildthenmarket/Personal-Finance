@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-site.com', // TODO: Update with Cloudflare URL
+  url: 'https://url-docs.savageceos.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-org', // Usually your GitHub org/user name.
-  projectName: 'personal-finance', // Usually your repo name.
+  organizationName: 'ambitious-royalty', // Usually your GitHub org/user name.
+  projectName: 'bag-flow', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   markdown: {
@@ -39,8 +39,8 @@ const config: Config = {
       'docusaurus-plugin-dotenv',
       {
         path: './.env',
-        safe: false,
-        systemvars: true,
+        safe: true,        // Validate against .env.example
+        systemvars: false, // Don't expose system environment variables
         silent: false,
       }
     ],
@@ -65,7 +65,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/your-org/personal-finance/tree/main/',
+            'https://github.com/ambitious-royalty/bag-flow/tree/main/',
         },
         blog: false, // No blog for this site
         theme: {
@@ -75,14 +75,7 @@ const config: Config = {
     ],
   ],
 
-  headTags: [
-    {
-      tagName: 'script',
-      attributes: {
-        src: 'https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js',
-      },
-    },
-  ],
+  headTags: [],
 
   themeConfig: {
     // Replace with your project's social card
@@ -95,52 +88,14 @@ const config: Config = {
     navbar: {
       title: '💰 Personal Finance Guide 📊',
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Guide',
-        // },
         {
-          label: 'Categories',
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
           position: 'left',
-          items: [
-            {
-              label: 'Accounting',
-              href: '/Accounting/',
-            },
-            {
-              label: 'Banks',
-              href: '/Banks/',
-            },
-            {
-              label: 'Credit and Debt',
-              href: '/Credit%20and%20Debt/',
-            },
-            {
-              label: 'Crypto',
-              href: '/Crypto/',
-            },
-            {
-              label: 'Earning',
-              href: '/Earning/',
-            },
-            {
-              label: 'Healthcare',
-              href: '/Healthcare/',
-            },
-            {
-              label: 'Housing',
-              href: '/Housing/',
-            },
-            {
-              label: 'Investing',
-              href: '/Investing/',
-            },
-          ],
+          label: 'Guide',
         },
         {
-          href: 'https://github.com/your-org/personal-finance',
+          href: 'https://github.com/ambitious-royalty/bag-flow',
           label: 'GitHub',
           position: 'right',
         },
@@ -150,24 +105,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/personal-finance',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/personal-finance',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/your-org/personal-finance',
+              href: 'https://github.com/ambitious-royalty/bag-flow',
             },
           ],
         },
