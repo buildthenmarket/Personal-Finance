@@ -107,15 +107,15 @@ const config: Config = {
           items: [
             {
               label: 'Terms',
-              to: '/Terms', // docs/Terms.md
+              to: 'Learning/Terms', // docs/Terms.md
             },
             {
               label: 'Links',
-              to: '/Links', // docs/Links.md
+              to: 'Learning/Links', // docs/Links.md
             },
             {
               label: 'Tools',
-              to: '/Tools', // docs/Tools.md
+              to: 'Learning/Tools', // docs/Tools.md
             }
           ],
         },
@@ -150,7 +150,7 @@ const config: Config = {
           ],
         },
         {
-          label: 'Spending',
+          label: '🤑 Spending',
           to: '/spending/budgeting', // docs/Spending/index.md
           position: 'left',
         }

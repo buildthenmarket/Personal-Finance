@@ -3,7 +3,7 @@ title: Budgeting
 sidebar_label: Budgeting
 ---
 
-# Budgeting
+# ✉️ Budgeting
 
 
 ![Money Management](static/Budget%2050%2040%2010.png)
