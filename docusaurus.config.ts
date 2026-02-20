@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Personal Finance Guide',
   tagline: 'A comprehensive guide to personal finance',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://url-docs.savageceos.com',
@@ -46,11 +46,15 @@ const config: Config = {
     ],
     [
       '@easyops-cn/docusaurus-search-local',
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       {
         hashed: true,
+        indexBlog: false,
         language: ['en'],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
+        docsDir: 'docs',
+        docsRouteBasePath: '/',
       },
     ],
   ],
