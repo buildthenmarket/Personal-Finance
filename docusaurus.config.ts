@@ -102,7 +102,7 @@ const config: Config = {
         },
         {
           type: 'dropdown',
-          label: 'Learning',
+          label: '📚 Learning',
           position: 'left',
           items: [
             {
@@ -121,7 +121,7 @@ const config: Config = {
         },
         {
           type: 'dropdown',
-          label: 'Credit and Debt',
+          label: '💳 Credit and Debt',
           position: 'left',
           items: [
             {
@@ -136,7 +136,7 @@ const config: Config = {
         },
         {
           type: 'dropdown',
-          label: 'Saving and Investing',
+          label: '🏦 Saving and Investing',
           position: 'left',
           items: [
             {

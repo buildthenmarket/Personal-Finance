@@ -1,5 +1,5 @@
 ---
-title: Earning
+title: 💲 Earning
 sidebar_position: 1
 ---
 

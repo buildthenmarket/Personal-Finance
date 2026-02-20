@@ -1,9 +1,9 @@
 ---
-title: travel
+title: ✈️ Travel
 sidebar_label: travel
 ---
 
-# Travel
+# ✈️ Travel
 
 ## Table of Contents
 

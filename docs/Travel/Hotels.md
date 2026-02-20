@@ -1,9 +1,9 @@
 ---
-title: Hotels
+title: 🏨 Hotels
 sidebar_label: Hotels
 ---
 
-# Hotels
+# 🏨 Hotels
 
 ## Booking a Hotel at Night
 

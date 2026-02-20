@@ -1,5 +1,5 @@
 ---
-title: Banks
+title: 🏦 Banks
 sidebar_position: 1
 ---
 

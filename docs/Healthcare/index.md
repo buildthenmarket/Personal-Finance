@@ -1,5 +1,5 @@
 ---
-title: Healthcare
+title: 🥗 Healthcare
 sidebar_position: 1
 ---
 

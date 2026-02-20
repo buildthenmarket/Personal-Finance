@@ -1,5 +1,5 @@
 ---
-title: Credit and Debt
+title: 💳 Credit and Debt
 sidebar_position: 1
 ---
 

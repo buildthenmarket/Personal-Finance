@@ -1,5 +1,5 @@
 ---
-title: Housing
+title: 🏠 Housing
 sidebar_position: 1
 ---
 
