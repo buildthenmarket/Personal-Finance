@@ -7,7 +7,7 @@ sidebar_label: Risk
 
 
 
-![handle risk](@site/static/image-3.png)
+![handle risk](/image-3.png)
 
 ## INFLATION RISK
 
@@ -44,7 +44,7 @@ Diversification into multiple asset classes should help reduce legislative risk.
 
 ## Volatile Market Periods?
 
-![volatility](@site/static/volatility.png)
+![volatility](/volatility.png)
 
 ### The market can stay irrational longer than you can stay solvent.
 

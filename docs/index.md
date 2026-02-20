@@ -8,25 +8,15 @@ displayed_sidebar: tutorialSidebar
 - real wealth is earned from making a living
 - speculation doesn't earn wealth, speculation transfers wealth based on greed and fear
 
-
-![rules](@site/static/personal-finance.png)
-
-
-![Fin KPIs](@site/static/kpis.png)
-
-![Tracking Frequency](@site/static/tracking-frequency.png)
+![rules](/personal-finance.png)
 
 - be economically responsible for your own household.
 
 ## Average Age of First-time millionaire: 37 yrs old
 
-![goals](@site/static/wealth-goals.jpg)
+![goals](/wealth-goals.jpg)
 
-![checklist](@site/static/bookkeeping-checklist.png)
-
-![Financial Literacy](@site/static/financial-literacy.jpg)
-
-![basic](@site/static/10-step-list.png)
+![basic](/10-step-list.png)
 
 ## Dave Ramsey’s 7 Baby Steps
 
@@ -56,13 +46,13 @@ In his speech “[Investing with Simplicity](http://johncbogle.com/wordpress/wp-
 
 ## it is important to remember that no investment is without risk!
 
-![Personal Finance](@site/static/personal-finance-cheat-sheet.png)
+![Personal Finance](/personal-finance-cheat-sheet.png)
 
 ## 5 Level Risk Pyramid
 
-![5 Level Risk Pyramid](@site/static/5-level-risk-pyramid.png)
+![5 Level Risk Pyramid](/5-level-risk-pyramid.png)
 
-![personal finance](@site/static/personal-finance.png)
+![personal finance](/personal-finance.png)
 
 ## Personal Finance Terms and Strategies
 
@@ -100,7 +90,7 @@ In his speech “[Investing with Simplicity](http://johncbogle.com/wordpress/wp-
 
 Implementing these personal finance strategies can help create a healthier relationship with money, reduce financial stress, and enhance overall happiness in daily life. By focusing on intentional budgeting and mindful spending, you can achieve greater peace of mind and satisfaction with your financial decisions.
 
-![flowchart](@site/static/personal-income-spending-flowchart.png)
+![flowchart](/personal-income-spending-flowchart.png)
 
 ## Risk
 
@@ -122,4 +112,4 @@ However, budgeting isn't entirely useless. It can help:
 
 So, it's more accurate to say that budgeting alone can't eradicate poverty. But it can be a helpful tool alongside efforts to address the root causes of poverty, like job training, affordable housing initiatives, and a living wage.  
 
-![goals](@site/static/new-years-resolutions-ideas.png)
+![goals](/new-years-resolutions-ideas.png)

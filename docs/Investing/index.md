@@ -10,7 +10,7 @@ Welcome to the Investing section of the Personal Finance Guide. Here you'll find
 - real wealth is earned from making a living
 - speculation doesn't earn wealth, speculation transfers wealth based on greed and fear
 
-![alt text](@site/static/asset-comparison.png)
+![alt text](/asset-comparison.png)
 
 - **Stock Market**: Invest wisely in stocks, ETFs, or mutual funds. Think of the stock market as a vast, mysterious forest where fortunes can be made if you learn the paths.
 
@@ -19,7 +19,7 @@ Welcome to the Investing section of the Personal Finance Guide. Here you'll find
 
 ## Asset Classes
 
-![types of assets](@site/static/asset-classes.png)
+![types of assets](/asset-classes.png)
 
 Asset classes are groupings of investments that share similar characteristics and behave in a similar way in the market. They are a way to categorize investments and help investors diversify their portfolios. Here are the major asset classes:
 

@@ -5,7 +5,7 @@ sidebar_label: Securities
 
 # Securities
 
-![Collateralized Loan Obligation](@site/static/securities.png)
+![Collateralized Loan Obligation](/securities.png)
 
 ## Short Term Liquid Securities
 

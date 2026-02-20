@@ -62,7 +62,7 @@ During volatile market periods, like the one you might be experiencing now, taki
 
 Remember, these are general guidelines. The best course of action for your portfolio will depend on your individual circumstances.
 
-![Fin Planning](@site/static/image.png)
+![Fin Planning](/image.png)
 
 ## Allocation
 

@@ -5,6 +5,8 @@ sidebar_label: Tools
 
 # Tools
 
+![Financial Literacy](/financial-literacy.jpg)
+
 ## Credit Card
 
 - [wallethub](https://wallethub.com/)

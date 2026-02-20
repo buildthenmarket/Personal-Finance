@@ -5,7 +5,7 @@ sidebar_label: Divorce
 
 # Divorce
 
-![meme](@site/static/divorce-meme.jpeg)
+![meme](/divorce-meme.jpeg)
 
 ## Qualified Domestic Relations Order (QDRO)
 
