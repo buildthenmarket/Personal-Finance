@@ -1,6 +1,5 @@
 ---
 title: 🧾 Accounting
-sidebar_position: 1
 ---
 
 # 🧾 Accounting

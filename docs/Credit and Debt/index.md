@@ -1,6 +1,6 @@
 ---
 title: 💳 Credit and Debt
-sidebar_position: 1
+
 ---
 
 # Credit and Debt

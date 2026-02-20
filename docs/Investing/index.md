@@ -1,6 +1,6 @@
 ---
 title: 💹 Investing
-sidebar_position: 1
+
 ---
 
 # Investing

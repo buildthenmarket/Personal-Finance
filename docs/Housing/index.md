@@ -1,6 +1,6 @@
 ---
 title: 🏠 Housing
-sidebar_position: 1
+
 ---
 
 # Housing
