@@ -1,13 +1,13 @@
-const fs = require('fs');
-const path = require('path');
-const glob = require('glob');
+import fs from 'fs';
+import path from 'path';
+import * as glob from 'glob';
 
 /**
  * Converts PDF filename to readable title
  * "css-handbook.pdf" → "CSS Handbook"
  * "Git_Quick_Reference.2011-09-04.pdf" → "Git Quick Reference"
  */
-function pdfToTitle(filename) {
+function pdfToTitle(filename: string): string {
   return filename
     .replace(/\.pdf$/i, '')
     .replace(/^\d{1,2}-\d{1,2}-\d{4}-?/g, '') // Remove date prefixes
@@ -24,14 +24,14 @@ function pdfToTitle(filename) {
  * Escape special characters for use in YAML double-quoted strings
  * In YAML, inside double quotes: escape backslash and double quote only
  */
-function escapeForYaml(str) {
+function escapeForYaml(str: string): string {
   return str.replace(/\\/g, '\\\\').replace(/"/g, '\\"');
 }
 
 /**
  * Escape special characters for use in JavaScript strings (using JSON.stringify)
  */
-function escapeForJs(str) {
+function escapeForJs(str: string): string {
   // JSON.stringify handles all escaping correctly
   return JSON.stringify(str);
 }
@@ -39,7 +39,7 @@ function escapeForJs(str) {
 /**
  * Generate MDX content for a PDF
  */
-function generateMdxContent(pdfFilename, title) {
+function generateMdxContent(pdfFilename: string, title: string): string {
   const yamlTitle = escapeForYaml(title);
   const jsTitle = escapeForJs(title);
 
@@ -62,7 +62,7 @@ import PDFViewer from '@site/src/components/PDFViewer';
 `;
 }
 
-module.exports = function pdfPagesPlugin(context, options) {
+export default function pdfPagesPlugin(context: any, options: any) {
   const { siteDir } = context;
   const docsDir = path.join(siteDir, 'docs');
 
@@ -72,7 +72,7 @@ module.exports = function pdfPagesPlugin(context, options) {
   console.log(`[pdf-pages-plugin] Found ${pdfFiles.length} PDF files`);
 
   // Generate MDX files for each PDF (runs at plugin init, before docs plugin loads)
-  pdfFiles.forEach(pdfRelPath => {
+  pdfFiles.forEach((pdfRelPath: string) => {
     const pdfFullPath = path.join(docsDir, pdfRelPath);
     const mdxPath = pdfFullPath.replace(/\.pdf$/i, '.pdf.mdx');
     const pdfFilename = path.basename(pdfRelPath);
@@ -82,7 +82,7 @@ module.exports = function pdfPagesPlugin(context, options) {
     try {
       fs.writeFileSync(mdxPath, mdxContent, 'utf8');
       console.log(`[pdf-pages-plugin] Generated: ${path.basename(mdxPath)}`);
-    } catch (err) {
+    } catch (err: any) {
       console.error(`[pdf-pages-plugin] Failed to write ${mdxPath}: ${err.message}`);
       throw err;
     }
@@ -96,4 +96,4 @@ module.exports = function pdfPagesPlugin(context, options) {
       // Files are kept for dev server; gitignore handles not committing them
     },
   };
-};
+}
