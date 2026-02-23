@@ -3,11 +3,11 @@ title: Flights
 sidebar_label: Flights
 ---
 
-# Flights
+1. [VPN](#vpn)
 
 ## Reviews
 
-- **Skytrax:** This is a well-known and widely recognized platform for airline reviews. You can find reviews for Delta, JetBlue, and American Airlines on their website. 
+- **Skytrax:** This is a well-known and widely recognized platform for airline reviews. You can find reviews for Delta, JetBlue, and American Airlines on their website.
 - **Tripadvisor:** While primarily known for travel reviews, Tripadvisor also has a section for airline reviews, allowing you to compare experiences with these airlines.
 - **Airline Quality Rating (AQR):** This website provides in-depth analysis and ratings of airlines based on various factors, including safety, customer service, and on-time performance. You can find information on Delta, JetBlue, and American Airlines here.
 - **Google Reviews:** Many passengers share their experiences with airlines directly on Google Maps and Google My Business. You can find a variety of reviews for these airlines on Google.
@@ -22,9 +22,9 @@ flights.google.com
 - dollarflightclub
 
 | Rank | Airline | 1. Skytrax  | 2. **Trustpilot** |  3. TripAdvisor Legroom | 4. **ConsumerAffairs** | 5. **NerdWallet Loyalty Program** |
-| ---|--- | --- | --- | --- |  --- |  --- |
-| 1   |   Delta | -   **Rating**: Delta Air Lines is certified as a 3-Star Airline by Skytrax, indicating a moderate level of quality in terms of seats, amenities, catering, inflight entertainment (IFE), cleanliness, and cabin staff and ground staff service.<br /> -   **Customer Reviews**: Skytrax customer reviews highlight both positive and negative experiences. Positive reviews often praise the inflight entertainment, seat comfort, and staff service. Negative reviews mention issues such as delays, poor customer service, and value for money.| <br /> -   **Rating**: On Trustpilot, Delta Air Lines has a mixed review base with customers expressing both satisfaction and dissatisfaction.<br /> -   **Customer Reviews**: Some customers praise Delta for handling situations well, especially in comparison to other airlines. However, others criticize the airline for poor customer service, unprofessional staff, and issues with baggage handling.| <br /> -   **Rating**: TripAdvisor users provide a variety of reviews, with some highlighting the airline's reputation as the top-rated airline but noting that it still leaves much to be desired.<br /> -   **Customer Reviews**: Reviews often mention tight seating, especially in economy class, but also praise the comfort of Delta Comfort+ seats and the overall service quality.| <br /> -   **Rating**: ConsumerAffairs has a mixed set of reviews, with some customers expressing disappointment in the service and others praising the airline's efforts.<br /> -   **Customer Reviews**: Positive reviews often commend Delta for its customer service and handling of issues, while negative reviews focus on poor service, delays, and issues with baggage and seating.||
-| 2   |   Southwest ||||||
+| --- | --- | --- | --- | --- |  --- |  --- |
+| 1 |   Delta | -   **Rating**: Delta Air Lines is certified as a 3-Star Airline by Skytrax, indicating a moderate level of quality in terms of seats, amenities, catering, inflight entertainment (IFE), cleanliness, and cabin staff and ground staff service.<br /> -   **Customer Reviews**: Skytrax customer reviews highlight both positive and negative experiences. Positive reviews often praise the inflight entertainment, seat comfort, and staff service. Negative reviews mention issues such as delays, poor customer service, and value for money. | <br /> -   **Rating**: On Trustpilot, Delta Air Lines has a mixed review base with customers expressing both satisfaction and dissatisfaction.<br /> -   **Customer Reviews**: Some customers praise Delta for handling situations well, especially in comparison to other airlines. However, others criticize the airline for poor customer service, unprofessional staff, and issues with baggage handling. | <br /> -   **Rating**: TripAdvisor users provide a variety of reviews, with some highlighting the airline's reputation as the top-rated airline but noting that it still leaves much to be desired.<br /> -   **Customer Reviews**: Reviews often mention tight seating, especially in economy class, but also praise the comfort of Delta Comfort+ seats and the overall service quality. | <br /> -   **Rating**: ConsumerAffairs has a mixed set of reviews, with some customers expressing disappointment in the service and others praising the airline's efforts.<br /> -   **Customer Reviews**: Positive reviews often commend Delta for its customer service and handling of issues, while negative reviews focus on poor service, delays, and issues with baggage and seating. | |
+| 2   |   Southwest | | | | | |
 | 3   |   United | United Airlines has been certified as a 3-Star Airline by Skytrax, indicating a moderate level of customer satisfaction. | United Airlines has a rating of 1.6 out of 5, which is considered “Bad.” This rating is based on reviews from 1,668 customers. | | United Airlines has a rating of 1.2 out of 5, based on 2,972 reviews, which is also considered poor. |
 | 4   |   American Airlines | 1. American Airlines is certified as a 3-Star Airline by Skytrax, which evaluates the quality of seats, amenities, catering, in-flight entertainment (IFE), cleanliness, and cabin staff and ground staff service standards. |2. |3. American Airlines received 3.5 stars for legroom on TripAdvisor, which has over 70,000 reviews of the airline. | ConsumerAffairs has a rating of 1.2 out of 5 based on 3,883 reviews. This rating reflects a range of customer experiences, from positive feedback on exceptional service to complaints about customer service and flight delays.| NerdWallet rates American Airlines’ overall loyalty program as 3.0 out of 5, ranking it 5th among major airlines. The score is based on the benefits and rewards provided to frequent travelers.|
 | 5   |   Alaska ||||||
@@ -34,7 +34,9 @@ flights.google.com
 
 [IndiGo](https://www.goindigo.in/)
 
-## using VPN to buy cheaper flight tickets
+## VPN
+
+### using VPN to buy cheaper flight tickets
 
 **Why VPNs Can Help:**
 VPNs (Virtual Private Networks) can disguise your IP address, making it appear as if you're browsing from a different location. This can help you avoid price discrimination based on your geographic location, potentially leading to cheaper flights.

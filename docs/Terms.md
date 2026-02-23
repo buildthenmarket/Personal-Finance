@@ -53,3 +53,5 @@ sidebar_label: Terms
 | Market capitalization (market cap) | This refers to the total dollar market value of a company's outstanding shares of stock. It's calculated by multiplying the number of outstanding shares by the current market price per share. |
 | Core Inflation | Core inflation acts as a "low-pass filter" for the economy, stripping out the high-frequency noise of volatile food and energy prices to reveal underlying price trends. This cleaner dataset allows policymakers and businesses to gauge long-term stability without being distracted by temporary supply shocks or seasonal spikes. |
 | ETFs | An **ETF (Exchange-Traded Fund)** is a diversified collection of assets—like stocks, bonds, or commodities—into a single ticker you can trade on an exchange just like an individual stock. It functions like a modular library for your portfolio, offering instant diversification and high liquidity with generally lower overhead than traditional mutual funds. |
+
+![asset](/asset-classes.png)

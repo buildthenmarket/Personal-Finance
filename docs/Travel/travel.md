@@ -9,7 +9,6 @@ sidebar_label: travel
 
 1. [Hotel booking](#hotels)
 1. [Flights](#flights)
-1. [VPN](#vpn)
 
 **clear cookies / use incognito**
 **use VPN to check lower prices**

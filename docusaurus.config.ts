@@ -89,7 +89,7 @@ const config: Config = {
     docs: {
       sidebar: {
         hideable: true,
-        autoCollapseCategories: true,
+        autoCollapseCategories: true
       },
     },
     navbar: {
@@ -107,15 +107,15 @@ const config: Config = {
           items: [
             {
               label: 'Terms',
-              to: 'Learning/Terms', // docs/Terms.md
+              to: '/Terms', // docs/Terms.md
             },
             {
               label: 'Links',
-              to: 'Learning/Links', // docs/Links.md
+              to: '/Links', // docs/Links.md
             },
             {
               label: 'Tools',
-              to: 'Learning/Tools', // docs/Tools.md
+              to: '/Tools', // docs/Tools.md
             }
           ],
         },
@@ -141,7 +141,7 @@ const config: Config = {
           items: [
             {
               label: 'Retirement',
-              to: '/Retirement/retirement-strategy', // docs/Retirement/index.md
+              to: '/Retirement', // docs/Retirement/index.md
             },
             {
               label: 'Investing',
@@ -151,7 +151,7 @@ const config: Config = {
         },
         {
           label: '🤑 Spending',
-          to: '/spending/budgeting', // docs/Spending/index.md
+          to: '/spending', // docs/Spending/index.md
           position: 'left',
         }
       ]
