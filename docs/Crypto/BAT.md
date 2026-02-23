@@ -1,11 +1,10 @@
 ---
-title: BAT
-sidebar_label: BAT
+title: Basic Attention Token (BAT)
 ---
 
 The Basic Attention Token (BAT) is a blockchain-based digital advertising token integrated with the Brave web browser, designed to reward users for viewing ads, compensate content creators, and provide advertisers with better returns. Below is an analysis of BAT's performance over the past six months (January 14, 2025, to July 14, 2025), based on available data.
 
-### Price Performance Overview
+## Price Performance Overview
 
 - **Current Price (July 14, 2025)**: Approximately $0.1463 USD, with a slight increase of 0.47% in the last 24 hours.[](https://changelly.com/blog/basic-attention-token-bat-price-prediction/)
 - **Six-Month Price Trend**:

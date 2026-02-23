@@ -5,6 +5,12 @@ sidebar_label: Risk
 
 ## it is important to remember that no investment is without risk!
 
+## Risk
+
+- **Risk tolerance**: the willingness to take risk
+- **Risk capacity**: the ability to take risk
+- **Risk required**: the level of risk required to meet a particular goal
+
 ![handle risk](/image-3.png)
 
 ## INFLATION RISK
@@ -18,13 +24,11 @@ purchasing power.
 
 Diversification into multiple asset classes should help reduce inflation risk.
 
-
 ## Compound Interest Rate Risk
 
 ### What is interest rate risk?
 
 Chance that bond prices overall will decline due to rising interest rates.
-
 
 ### How to avoid interest rate risk?
 
@@ -57,7 +61,6 @@ Here's a breakdown of the saying's meaning:
 
 In short, the saying is a cautionary tale for investors. It emphasizes the importance of having a well-defined investment strategy, managing risk, and avoiding getting caught up in the euphoria or fear that can grip markets from time to time.
 
-
 ## Sequence of Returns Risk
 
 Sequence of Returns Risk refers to the threat that the timing of investment returns can significantly impact the overall effectiveness of an investment strategy, particularly during retirement or when withdrawing funds from a portfolio. It arises when the sequence of positive and negative returns affects the sustainability of a portfolio's value over time.
@@ -86,4 +89,3 @@ This risk is particularly pronounced in retirement, as investors typically rely 
 5. **Longevity insurance**: Considering annuity products or other guaranteed income solutions to provide a predictable income stream and protect against SORR.
 
 By understanding Sequence of Returns Risk and implementing strategies to mitigate its impact, investors can better navigate the challenges of retirement and ensure a more sustainable income stream over time.
-

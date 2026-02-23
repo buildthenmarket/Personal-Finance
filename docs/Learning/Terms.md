@@ -24,6 +24,17 @@ sidebar_label: Terms
 | **Net income** | Net Income is the final profit remaining after all costs, expenses, interest, and taxes have been deducted from an individual's total earnings. |
 | **Statement Date** (or Issue Date) | This is typically a few days after your closing date. It's the day your credit card issuer generates your bill and sends it to you (electronically or by mail). |
 
+## Homeownership Terms
+
+| Terms | Defintions |
+| --- | --- |
+| **underwater mortgage** | when a borrower owes more money than the home is worth. |
+| **half duplex** | just one side of a duplex. But, instead of one owner owning both of those halves, with a half duplex, each side has a separate owner. |
+| REO property | They are **owned by a bank or a lender who took ownership through foreclosure proceedings**. These are also known as bank-owned or real estate owned (REO). Auctions. These properties are owned by a bank or a lender who took ownership through foreclosure proceedings. They may soon be listed for sale. |
+| short sale | If you’re interested in [buying a house](https://www.rocketmortgage.com/learn/how-to-buy-a-house "‌") at a discount, short sales can be an appealing option. Short sales are a safer alternative to foreclosures for both sellers and their lenders, which is why you often can find them priced just below market value. They’re also often in better condition than [distressed properties](https://www.rocketmortgage.com/learn/distressed-property "‌"). However, a short sale transaction is far more complex than your average sale, and can therefore involve a lot more risk. Before you decide to purchase a short sale, you must know precisely what you’re getting yourself into. |
+| ***home equity line of credit (HELOC)** | A savings or checking account to pay for your monthly expenses and make principal payments on a loan, usually a mortgage. “The basic idea is to strategically spread your money across different debt products in order to minimize interest payments and maximize the amount going to pay down your mortgage principal.” |
+| closing costs / seller concessions | Closing costs usually range from around 3% – 6% of the home price. **Property taxes:** Pre-paid [property taxes](https://www.rocketmortgage.com/learn/property-tax "‌") through the end of the year at closing. **Title insurance:** protects you and your lender if someone comes forth with a claim for the home’s title. **Loan origination fees:** These cover your lender’s charges for processing your loan. **Inspection fees:** Inspection fees cover the cost of inspections required for the loan. For example, in some states and on some loans, a pest inspector must evaluate your property before a sale can go through. **Recording fees:** cover the expense of documenting your home’s purchase with your local government. **Appraisal fee:** This covers the cost of getting a licensed third-party appraisal of the home to determine the market value. **Attorney’s fees:** In some states, you need an attorney to review closing documents. Attorney’s fees cover the cost of real estate attorney services. **Mortgage points** (also known as discount points) are upfront interest you pay to reduce your interest rate. |
+
 ## Retirement Terms
 
 | Terms | Definitions |

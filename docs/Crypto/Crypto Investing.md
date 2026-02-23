@@ -2,7 +2,7 @@
 
 The complexities involved due to their unique nature compared to traditional assets. Begin with identifying the asset type (e.g., cryptocurrencies, NFTs, or tokenized securities) and understanding its purpose, followed by assessing its utility, scarcity, and market demand. The third step involves analyzing historical price data and market trends, while the fourth focuses on evaluating the underlying technology and its potential for adoption. Step five considers external factors like regulatory environments and macroeconomic conditions, and the final step integrates all these elements into a cohesive valuation model, such as discounted cash flow or comparative analysis. The urgent need for a tailored approach, as digital assets lack standardized valuation methods, making them both challenging and dynamic to appraise.
 
-**Price Drivers** the factors that have influenced the price changes of these cryptocurrencies 
+**Price Drivers** the factors that have influenced the price changes of these cryptocurrencies
 
 ## native token
 

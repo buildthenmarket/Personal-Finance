@@ -1,18 +1,18 @@
 ---
-title: Budgeting
-sidebar_label: Budgeting
+title:  ✉️ Spending / Budgeting
 ---
 
-# ✉️ Budgeting
+## budgeting can help:
 
+- **Gain control:**  Understanding where your money goes empowers you to make informed choices, even with limited resources.
+- **Stretch your income:**  Finding ways to save on groceries, transportation, or utilities can free up a little extra cash.
+- **Build financial literacy:**  Budgeting is a skill that can benefit you throughout your life, even if it doesn't solve poverty on its own.
 
 ![Money Management](static/Budget%2050%2040%2010.png)
 
 ![50, 30, 20](static/50-30-20.png)
 
-
 [numbeo - Numbeo is the world’s largest cost of living database.](https://www.numbeo.com/cost-of-living/)
-
 
 ## Average Americans
 
@@ -23,22 +23,22 @@ sidebar_label: Budgeting
 ## Budget Allocation
 
 | Expense Category | Target Percentage | Details |
-| ---|---|--- |
+| --- | --- | --- |
 | Housing | 34% | |
 | Food | 6% | **groceries** $438 <br /><br />**eating out** $253 |
 | Healthcare | 5% | anywhere from $309 to $831 per month on health insurance plans, the median cost in America is $541/month |
-| Debt Repayment & Savings | 20% |  |
+| Debt Repayment & Savings | 20% | |
 | Utilities | 10% | **Utility Bills**: water, electric, internet, Cell Phone |
 | Clothing & Entertainment | 10% | **Fashion**: average U.S. household spends $146 per month on clothing <br /><br />**Monthly Subscriptions**: Americans spend close to $220 per month on subscription fees |
 | Transportation | 10% | **Transportation, & Car Loan, Car Insurance**: costs more than many realize ($913 per month), largely due to the intermittent nature of these expenses. |
-| Personal Expenses | 5% |  |
+| Personal Expenses | 5% | |
 
 ## Average Spending By Age
 
 Average monthly spending by age, 2021
 
 | Age group | Average monthly spending |
-| ---|--- |
+| --- | --- |
 | Under 25 years | $3,505 |
 | 25-34 years | $5,325 |
 | 35-44 years | $6,643 |
@@ -49,9 +49,7 @@ Average monthly spending by age, 2021
 | 75 years and older | $3,818 |
 | All consumers | $5,577 |
 
-
 ## 50/30/20 Rule
-
 
 This budgeting strategy, popularized by Sen. Elizabeth Warren in her book [_All Your Worth: The Ultimate Lifetime Money Plan_](https://www.simonandschuster.com/books/All-Your-Worth/Elizabeth-Warren/9780743269889 "‌") hinges on funneling your after-tax income to three main categories: 50% on needs, 30% on wants, and 20% to savings or paying off debt.
 
@@ -96,7 +94,7 @@ primary goal is to minimize risk and prioritize capital preservation, then focus
 - This strategy prioritizes safety over high returns. You may experience lower growth compared to aggressive investment approaches.
 - Inflation can erode the purchasing power of your money over time. Consider a small allocation to inflation-protected assets like TIPS (Treasury Inflation-Protected Securities) to hedge against inflation.
 
-![](/budgeting.png)
+![Budgeting](/budgeting.png)
 
 ### Your recurring payments may include:
 
