@@ -24,6 +24,15 @@ sidebar_label: Terms
 | **Net income** | Net Income is the final profit remaining after all costs, expenses, interest, and taxes have been deducted from an individual's total earnings. |
 | **Statement Date** (or Issue Date) | This is typically a few days after your closing date. It's the day your credit card issuer generates your bill and sends it to you (electronically or by mail). |
 
+## Retirement Terms
+
+| Terms | Definitions |
+| --- | --- |
+| **Social Security** | Social Security for retirement is a federal insurance program that replaces a portion of your pre-retirement income based on your lifetime earnings and age at the time of claiming. In 2026, most new claimants face a full retirement age of 67, though they can choose to receive reduced benefits as early as 62 or increased payments by delaying until 70. |
+| **Pension** | A pension is an employer-funded retirement plan that provides a guaranteed, pre-determined monthly benefit for life, typically calculated using a formula based on your salary history and years of service. For 2026, the IRS has increased the maximum annual benefit limit for these plans to $290,000, ensuring that the employer—not the employee—bears the investment risk to maintain these predictable payouts. |
+| **IRA** | An IRA is a tax-advantaged account that holds investments like stocks, bonds, and mutual funds, designed to help individuals save for retirement. |
+| **Keogh Account** | A Keogh plan is a tax-deferred retirement plan specifically designed for self-employed individuals and unincorporated businesses. It allows these individuals to save for retirement with potentially higher contribution limits than traditional IRAs. |
+
 ## Investing Terms
 
 | Terms | Definitions |

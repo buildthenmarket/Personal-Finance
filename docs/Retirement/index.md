@@ -1,6 +1,6 @@
-# retirement investing
+# Retirement
 
-￼![Chart by Age](static/Retirement Savings.webp)
+￼![Chart by Age](/retirement-savings.webp)
 
 - Save 10 to 15 percent of your income for retirement
 
@@ -16,7 +16,7 @@ Essentially, FIRE comes down to extreme budgeting, controlled spending, and low-
 
 Adeney wrote on his blog, however, that “Financial Independence does _not_ mean the end of your working career,” it means “complete freedom.” He also told the [Financial Times](https://www.ft.com/content/210a7877-1c43-4a8c-9d7d-6d424d474a78 "‌") that, “‘retirement’” means different things to people. For some, it could be saving enough to obtain a greater work/life balance by switching to part-time work, or choosing a career that is more rewarding but lower paid.”
 
-![tax now vs tax later](Taxes on Retirement Accounts.png)
+![tax now vs tax later](/taxes-on-retirement-accounts.png)
 
 While aiming for the lowest risk might seem ideal, it's important to consider growth potential alongside risk for retirement investing in your early 30s. Here's a strategy that balances both:
 
@@ -102,4 +102,6 @@ benefits based a formula that includes things like length of employment and sala
 Many government employees and members of certain unions qualify for pension
 plans.
 
-![30's goals](image-2.png)
+## Roth IRAs
+
+![vs](/trad-ira-vs-roth-ira.png)

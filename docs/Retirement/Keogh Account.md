@@ -1,1 +1,0 @@
-A Keogh plan is a tax-deferred retirement plan specifically designed for self-employed individuals and unincorporated businesses. It allows these individuals to save for retirement with potentially higher contribution limits than traditional IRAs.

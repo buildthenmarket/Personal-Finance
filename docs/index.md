@@ -7,6 +7,8 @@ displayed_sidebar: tutorialSidebar
 
 ![rules](/personal-finance.png)
 
+![checklist](/personal-finance-checklist.png)
+
 ![basic](/10-step-list.png)
 
 ![Personal Finance](/personal-finance-cheat-sheet.png)
