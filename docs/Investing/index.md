@@ -3,8 +3,6 @@ title: 💹 Investing
 
 ---
 
-# Investing
-
 Welcome to the Investing section of the Personal Finance Guide. Here you'll find information about stocks, bonds, mutual funds, ETFs, and investment strategies.
 
 - real wealth is earned from making a living
@@ -16,6 +14,11 @@ Welcome to the Investing section of the Personal Finance Guide. Here you'll find
 
 - **Alternative Investments**: Look into things like venture capital, commodities, or even art if you fancy. Diversifying is like having different types of armor for different battles.
 
+## Bogleheads
+
+Named after Vanguard Group founder John Bogle, this strategy advocates for saving at least 20% of your income, investing early and often, never trying to “time the market,” finding a risk profile that is not too high _or_ too low, investing in broadly diversified low-cost (low expense ratio) index funds, and staying the course through the stock market’s ups and downs (i.e., not selling the minute you smell a bear market).
+
+In his speech “[Investing with Simplicity](http://johncbogle.com/wordpress/wp-content/uploads/2019/08/Investing-with-Simplicity-1-30-99.pdf "‌")” Bogle said, “Simplicity is the master key to financial success.” Rather than doing extensive research on and tracking of individual stocks, advocate achieving portfolio diversification by following a simple investing philosophy: the creation of a three-fund “lazy” portfolio that includes a total stock market index fund, a total international stock index fund, and a total bond market fund (a percentage that Bogle recommends should be equivalent to your age—if you’re 40, allocate 40% of your portfolio to bonds). Then, outside of periodic rebalancing, set it, forget it, and watch your money produce returns with the market over time.
 
 ## Asset Classes
 

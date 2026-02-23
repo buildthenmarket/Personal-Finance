@@ -5,18 +5,21 @@ displayed_sidebar: tutorialSidebar
 
 # Personal Finance
 
-- real wealth is earned from making a living
-- speculation doesn't earn wealth, speculation transfers wealth based on greed and fear
-
 ![rules](/personal-finance.png)
 
+![basic](/10-step-list.png)
+
+![Personal Finance](/personal-finance-cheat-sheet.png)
+
+![goals](/new-years-resolutions-ideas.png)
+
+- real wealth is earned from making a living
+- speculation doesn't earn wealth, speculation transfers wealth based on greed and fear
 - be economically responsible for your own household.
 
 ## Average Age of First-time millionaire: 37 yrs old
 
 ![goals](/wealth-goals.jpg)
-
-![basic](/10-step-list.png)
 
 ## Dave Ramsey’s 7 Baby Steps
 
@@ -38,21 +41,9 @@ No financial strategy roundup would be complete without mention of Dave Ramsey. 
 
 1. Build wealth and donate.
 
-## Bogleheads
-
-Named after Vanguard Group founder John Bogle, this strategy advocates for saving at least 20% of your income, investing early and often, never trying to “time the market,” finding a risk profile that is not too high _or_ too low, investing in broadly diversified low-cost (low expense ratio) index funds, and staying the course through the stock market’s ups and downs (i.e., not selling the minute you smell a bear market).
-
-In his speech “[Investing with Simplicity](http://johncbogle.com/wordpress/wp-content/uploads/2019/08/Investing-with-Simplicity-1-30-99.pdf "‌")” Bogle said, “Simplicity is the master key to financial success.” Rather than doing extensive research on and tracking of individual stocks, advocate achieving portfolio diversification by following a simple investing philosophy: the creation of a three-fund “lazy” portfolio that includes a total stock market index fund, a total international stock index fund, and a total bond market fund (a percentage that Bogle recommends should be equivalent to your age—if you’re 40, allocate 40% of your portfolio to bonds). Then, outside of periodic rebalancing, set it, forget it, and watch your money produce returns with the market over time.
-
-## it is important to remember that no investment is without risk!
-
-![Personal Finance](/personal-finance-cheat-sheet.png)
-
 ## 5 Level Risk Pyramid
 
 ![5 Level Risk Pyramid](/5-level-risk-pyramid.png)
-
-![personal finance](/personal-finance.png)
 
 ## Personal Finance Terms and Strategies
 
@@ -111,5 +102,3 @@ However, budgeting isn't entirely useless. It can help:
 * **Build financial literacy:**  Budgeting is a skill that can benefit you throughout your life, even if it doesn't solve poverty on its own.
 
 So, it's more accurate to say that budgeting alone can't eradicate poverty. But it can be a helpful tool alongside efforts to address the root causes of poverty, like job training, affordable housing initiatives, and a living wage.  
-
-![goals](/new-years-resolutions-ideas.png)

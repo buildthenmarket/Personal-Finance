@@ -3,9 +3,7 @@ title: Risk
 sidebar_label: Risk
 ---
 
-# Risk
-
-
+## it is important to remember that no investment is without risk!
 
 ![handle risk](/image-3.png)
 
