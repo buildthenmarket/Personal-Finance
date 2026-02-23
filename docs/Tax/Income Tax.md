@@ -1,5 +1,3 @@
-# Income Tax
-
 - **Salaries and wages:** Income earned from employment, including bonuses and commissions.
 - **Self-employment income:** Net income from running a business or being self-employed, after deducting business expenses.
 - **Statutory employee net earnings:** Income earned by individuals who are technically self-employed but are treated as employees for tax purposes (e.g., some real estate agents and insurance agents).

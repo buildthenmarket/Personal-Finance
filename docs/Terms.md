@@ -3,10 +3,11 @@ title: 📓 Terms
 sidebar_label: Terms
 ---
 
-## Financial Statements
+## Financial Accounting Terms
 
 | Terms | Definitions |
 | --- | --- |
+| Expenditure | Expenditure is the total amount of money spent on goods, services, or other costs during a specific period. |
 | Profit & Loss Statement | for a timeframe |
 | Balance Sheet | snapshot |
 
@@ -21,7 +22,7 @@ sidebar_label: Terms
 | **Deferment** | a temporary postponement of loan payments, often with specific qualifying conditions like enrollment in school or military service, where interest may or may not accrue depending on the loan type. |
 | Payment **Due Date** | This is the deadline by which you need to make at least the minimum payment on your outstanding balance to avoid late fees and potential interest charges. It usually falls 21-25 days after your closing date, giving you a grace period to pay off your balance in full and avoid interest. |
 | **Forbearance** | a temporary postponement or reduction of loan payments, granted by a lender, typically during a period of financial hardship. |
-| **Net income** | Net Income is the final profit remaining after all costs, expenses, interest, and taxes have been deducted from an individual's total earnings. |
+| **Net income** | Net Income is the final profit and assets remaining after all costs, expenses, interest, and taxes have been deducted from an individual's total earnings. |
 | **Statement Date** (or Issue Date) | This is typically a few days after your closing date. It's the day your credit card issuer generates your bill and sends it to you (electronically or by mail). |
 | **Consumer Reporting Agency** | A consumer reporting agency is a company that collects and provides information about consumers' creditworthiness and other relevant data to businesses for purposes such as credit granting, employment, and tenant screening. |
 | **National Credit Bureaus** | National credit bureaus are companies that collect and maintain consumer credit information, providing reports used by lenders and other businesses to assess creditworthiness. The three major national credit bureaus in the U.S. are Equifax, Experian, and TransUnion. |

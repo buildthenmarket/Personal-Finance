@@ -1,6 +1,6 @@
 # Standard Deduction
 
-![deductions](static/Tax Deductions.png)
+![deductions](/tax-deductions.png)
 
 - must forego std deduction for business itemized deductions
 - $19,000 must give up your standard deduction

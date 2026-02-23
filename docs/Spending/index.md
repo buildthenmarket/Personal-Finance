@@ -8,9 +8,9 @@ title:  ✉️ Spending / Budgeting
 - **Stretch your income:**  Finding ways to save on groceries, transportation, or utilities can free up a little extra cash.
 - **Build financial literacy:**  Budgeting is a skill that can benefit you throughout your life, even if it doesn't solve poverty on its own.
 
-![Money Management](static/Budget%2050%2040%2010.png)
+![Money Management](/Budget-50-40-10.png)
 
-![50, 30, 20](static/50-30-20.png)
+![50, 30, 20](/50-30-20.png)
 
 [numbeo - Numbeo is the world’s largest cost of living database.](https://www.numbeo.com/cost-of-living/)
 
@@ -138,7 +138,4 @@ Here's a breakdown of the terms:
 - It's the **Federal Reserve's preferred measure of inflation**. The Fed uses this data to set monetary policy, which can impact interest rates and the overall health of the economy.
 - It helps economists understand how consumer spending is affecting inflation. Rising core PCE can signal that inflation is picking up, while a decline might suggest inflation is slowing.
 
-If you'd like to learn more about core PCE data, you can check out the following resources:
-
-- U.S. Bureau of Economic Analysis: Personal Consumption Expenditures Price Index, Excluding Food and Energy: [https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy](https://www.bea.gov/data/personal-consumption-expenditures-price-index-excluding-food-and-energy "‌")
-- Investopedia: Personal Consumption Expenditures (PCE): What It Is and Measurement: [https://www.investopedia.com/terms/p/pce.asp](https://www.investopedia.com/terms/p/pce.asp "smartCard-inline")
+![FRED PCE Chart](/fredgraph-PersonalConsumptionExpenditures.png)

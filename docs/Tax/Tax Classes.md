@@ -1,6 +1,6 @@
-# DIVERSIFY TAX CLASSES
+## DIVERSIFY TAX CLASSES
 
-![tax classes](static/image-4.png)
+![tax classes](/diversify-tax-classes.png)
 
 ## What types of tax classes exist?
 
