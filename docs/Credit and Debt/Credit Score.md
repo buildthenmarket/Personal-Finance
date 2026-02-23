@@ -1,3 +1,4 @@
+# Credit Score
 
 ## Links
 
@@ -5,12 +6,7 @@
 - https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/
 - https://consumer.ftc.gov/articles/free-credit-reports#How%20To%20Get%20Your%20Free%20Credit%20Reports
 
-## Terms
-
-**Consumer Reporting Agency**: A consumer reporting agency is a company that collects and provides information about consumers' creditworthiness and other relevant data to businesses for purposes such as credit granting, employment, and tenant screening.
-**National Credit Bureaus**: National credit bureaus are companies that collect and maintain consumer credit information, providing reports used by lenders and other businesses to assess creditworthiness. The three major national credit bureaus in the U.S. are Equifax, Experian, and TransUnion.
-
-## Key Credit Score Factors:
+## Key Factors:
 
 - **Payment History (Most Influential):**
   - This is the most significant factor. It reflects whether you pay your bills on time.

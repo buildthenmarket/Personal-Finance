@@ -8,28 +8,14 @@ const config: Config = {
   title: 'Personal Finance Guide',
   tagline: 'A comprehensive guide to personal finance',
   favicon: 'favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://url-docs.savageceos.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://finance.savageceos.com',
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ambitious-royalty', // Usually your GitHub org/user name.
-  projectName: 'bag-flow', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn',
     },
   },
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -126,11 +112,11 @@ const config: Config = {
           items: [
             {
               label: 'Credit Cards',
-              to: '/Credit and Debt/Credit Cards', // docs/Credit and Debt/Credit Cards.md
+              to: '/Credit and Debt/Credit Cards',
             },
             {
               label: 'Debt',
-              to: '/Credit and Debt/Debt', // docs/Credit and Debt/Debt.md
+              to: '/Credit and Debt',
             },
           ],
         },
@@ -141,7 +127,7 @@ const config: Config = {
           items: [
             {
               label: 'Retirement',
-              to: '/Retirement', // docs/Retirement/index.md
+              to: '/Retirement',
             },
             {
               label: 'Investing',
