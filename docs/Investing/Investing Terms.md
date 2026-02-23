@@ -102,7 +102,6 @@ A rolling earnings recession is a situation where corporate profits decline acro
 
 ### Market Capitalization
 
-
 Stock categories by market cap: Based on their market capitalization, stocks are classified into different categories. Here are some common classifications:
 
 Large-cap stocks: These are the biggest and most established companies, typically with a market cap of over $10 billion. Examples include Apple, Microsoft, and Amazon.
@@ -148,36 +147,7 @@ Here are some examples of well-known market leaders:
 
 Market leadership can be a powerful position, but it also comes with challenges. Leaders need to constantly innovate and adapt to stay ahead of the competition and changing consumer preferences.
 
-## Investing
-
-| Terms | Definitions|
-| ---|---|
-| Earnings season | a period four times a year when a large chunk of publicly traded companies release their financial results for the previous quarter. These quarters are typically January, April, July, and October, since companies need some time after the quarter ends to finalize their reports.  The season itself lasts for about six weeks, with the most reports coming out in the middle of those months. This is a crucial time for investors and analysts, as they use this information to assess a company's health, future prospects, and ultimately, the value of its stock. Strong earnings reports can lead to stock prices rising, while weak reports can cause them to fall.|
-| Market capitalization (market cap) | This refers to the total dollar market value of a company's outstanding shares of stock. It's calculated by multiplying the number of outstanding shares by the current market price per share.|
-
 ## Inflation Terms
-
-### Core Inflation
-
-Core inflation refers to the **change in the cost of goods and services**, **excluding** those from the **food and energy sectors**. These two sectors are frequently subject to **volatile price swings** due to various factors, such as:
-
-- **Seasonal fluctuations:** Food prices can vary significantly depending on the season and weather conditions.
-- **Supply chain disruptions:** Disruptions in the global supply chain can lead to sudden price increases for both food and energy.
-- **Geopolitical events:** Events like wars or political instability in major oil-producing regions can significantly impact energy prices.
-
-By excluding these volatile components, core inflation aims to **provide a more accurate picture of the underlying inflationary trends** in the economy. This is crucial because it helps policymakers, businesses, and individuals make informed decisions:
-
-- **Central banks:** Use core inflation to gauge the **underlying inflationary pressures** and determine appropriate **monetary policy** measures.
-- **Businesses:** Use core inflation to predict **future cost increases** for their products and services.
-- **Individuals:** Understand how inflation impacts their **purchasing power** and adjust their spending habits accordingly.
-
-Here are some additional points to consider:
-
-- **Calculation:** Core inflation is typically calculated by measuring the **Consumer Price Index (CPI)**, which tracks the average price changes of a basket of goods and services, **excluding food and energy**.
-- **Importance:** Core inflation is generally considered a **more reliable indicator of long-term inflation trends** compared to the headline CPI, which includes food and energy.
-- **Current Situation:** As of January 2024, the **U.S. Bureau of Labor Statistics** reported that the core CPI for All Urban Consumers (CPI-U) increased by **5.7%** year-over-year, which is lower than the headline CPI increase of **7.0%**. This suggests that **underlying inflationary pressures** might be **moderating** compared to the overall price increases consumers are experiencing.
-
-By understanding core inflation, you can gain a **deeper understanding of the economic climate** and make **informed decisions** about your finances.
 
 ### Market Cycles / Events 1977, 2022 Stagflation
 

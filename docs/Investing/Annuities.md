@@ -3,8 +3,6 @@ title: Annuities
 sidebar_label: Annuities
 ---
 
-# ANNUITY
-
 An annuity is a financial contract with an insurance company, typically in retirement. It provides a stream of income, and an annuity can be held within an IRA, or it can be a seperate financial product. So an IRA can hold an annuity as an investment.
 
 ## Variable ROI?
@@ -12,7 +10,6 @@ An annuity is a financial contract with an insurance company, typically in retir
 ## Definition
 
 **Annuities**: An annuity is a financial product that provides a guaranteed income stream for a set period of time or for life. Annuities are generally considered to be low-risk investments, as they offer a guaranteed income stream and are typically backed by insurance companies. However, it's important to carefully evaluate the terms and fees associated with any annuity product before investing.
-
 
 ## ANNUITY AS BOND SUBSTITUTE
 
