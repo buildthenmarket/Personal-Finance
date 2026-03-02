@@ -5,6 +5,8 @@ title: 💹 Investing
 
 Welcome to the Investing section of the Personal Finance Guide. Here you'll find information about stocks, bonds, mutual funds, ETFs, and investment strategies.
 
+![The Cost of Timing the Market](static/the-real-cost-of-timing-the-market.png)
+
 - real wealth is earned from making a living
 - speculation doesn't earn wealth, speculation transfers wealth based on greed and fear
 

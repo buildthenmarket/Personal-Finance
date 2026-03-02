@@ -31,6 +31,7 @@ sidebar_label: Terms
 
 | Terms | Defintions |
 | --- | --- |
+| **Housing burdened** | refers to households that spend a disproportionately large percentage of their income on housing costs, typically defined as more than 30% of gross income. Households spending over 50% are considered severely burdened. |
 | **underwater mortgage** | when a borrower owes more money than the home is worth. |
 | **half duplex** | just one side of a duplex. But, instead of one owner owning both of those halves, with a half duplex, each side has a separate owner. |
 | REO property | They are **owned by a bank or a lender who took ownership through foreclosure proceedings**. These are also known as bank-owned or real estate owned (REO). Auctions. These properties are owned by a bank or a lender who took ownership through foreclosure proceedings. They may soon be listed for sale. |

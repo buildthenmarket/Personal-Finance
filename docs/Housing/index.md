@@ -3,7 +3,13 @@ title: 🏠 Housing
 
 ---
 
-Welcome to the Housing section of the Personal Finance Guide. Here you'll find information about homeownership, mortgages, renting, and real estate.
+## Maintenance
+
+![](static/home-maintenance-cost-by-location.png)
+
+## Cost
+
+![Cost](static/salary-needed-to-buy-a-home.png)
 
 ## Strive to own your home, not rent — and try to buy in cash.
 
@@ -17,7 +23,7 @@ Here's a breakdown of homeownership percentages by age groups in the USA, as of 
 - **55-64**: Around 75.7% of this age bracket own their homes.
 - **65 and Over**: Nearly 79% are homeowners.
 
-Now, let's get to the encouragement part for your goal of becoming a first-time homebuyer:
+![Rising and Falling Housing Markets in USA](static/home-prices.png)
 
 ---
 
