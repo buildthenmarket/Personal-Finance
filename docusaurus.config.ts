@@ -11,7 +11,7 @@ const config: Config = {
   organizationName: 'buildthenmarket',
   deploymentBranch: 'main',
   projectName: 'Personal-Finance',
-  baseUrl: '/Personal-Finance',
+  baseUrl: '/Personal-Finance/',
   onBrokenLinks: 'throw',
   onDuplicateRoutes: 'warn',
   markdown: {
