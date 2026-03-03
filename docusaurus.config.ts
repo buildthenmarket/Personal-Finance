@@ -5,11 +5,13 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Personal Finance Guide',
+  title: 'Personal Finance',
   tagline: 'A comprehensive guide to personal finance',
   favicon: 'favicon.ico',
-  url: 'https://finance.savageceos.com',
-  baseUrl: '/',
+  organizationName: 'buildthenmarket',
+  deploymentBranch: 'main',
+  projectName: 'Personal-Finance',
+  baseUrl: '/Personal-Finance',
   onBrokenLinks: 'throw',
   onDuplicateRoutes: 'warn',
   markdown: {
