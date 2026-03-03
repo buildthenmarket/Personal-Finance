@@ -11,6 +11,7 @@ const config: Config = {
   url: 'https://finance.savageceos.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
+  onDuplicateRoutes: 'warn',
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn',

@@ -8,7 +8,6 @@ sidebar_label: travel
 ## Table of Contents
 
 1. [Hotel booking](#hotels)
-1. [Flights](#flights)
 
 **clear cookies / use incognito**
 **use VPN to check lower prices**
