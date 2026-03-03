@@ -1,0 +1,5 @@
+Underwriting for a home loan typically happens after the borrower has submitted a completed loan application, provided all necessary documentation, and received a pre-approval from the lender. The underwriting process is the lender's rigorous assessment of the borrower's creditworthiness and ability to repay the loan. During underwriting, the lender will review the borrower's credit report, income and employment history, debt-to-income ratio, assets, and other financial information.
+
+The underwriter will evaluate the borrower's credit risk and determine whether to approve or deny the loan. If the loan is approved, the underwriter may also specify any conditions that the borrower must meet in order for the loan to close, such as providing additional documentation or paying off certain debts.
+
+The length of the underwriting process can vary depending on the lender and the complexity of the borrower's financial situation. However, it typically takes a few days to a few weeks to complete. Once the loan is approved and all conditions are met, the loan can move forward to closing, where the borrower signs the loan documents and the funds are disbursed.

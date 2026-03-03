@@ -31,6 +31,10 @@ sidebar_label: Terms
 
 | Terms | Defintions |
 | --- | --- |
+| Interest Rate Risk | the uncertainty of future interest rates and their impact on cash flow and the attractiveness of existing assets |
+| Liens | a legal claim on a property as security for a debt |
+| ARM | adjustable rate mortgage |
+| IO | interest only |
 | **Housing burdened** | refers to households that spend a disproportionately large percentage of their income on housing costs, typically defined as more than 30% of gross income. Households spending over 50% are considered severely burdened. |
 | **underwater mortgage** | when a borrower owes more money than the home is worth. |
 | **half duplex** | just one side of a duplex. But, instead of one owner owning both of those halves, with a half duplex, each side has a separate owner. |

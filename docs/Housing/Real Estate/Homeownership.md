@@ -5,11 +5,11 @@ title: 🏠 Housing
 
 ## Maintenance
 
-![](static/home-maintenance-cost-by-location.png)
+![home maintenance cost by location](/home-maintenance-cost-by-location.png)
 
 ## Cost
 
-![Cost](static/salary-needed-to-buy-a-home.png)
+![Cost](/salary-needed-to-buy-a-home.png)
 
 ## Strive to own your home, not rent — and try to buy in cash.
 
@@ -23,7 +23,7 @@ Here's a breakdown of homeownership percentages by age groups in the USA, as of 
 - **55-64**: Around 75.7% of this age bracket own their homes.
 - **65 and Over**: Nearly 79% are homeowners.
 
-![Rising and Falling Housing Markets in USA](static/home-prices.png)
+![Rising and Falling Housing Markets in USA](/home-prices.png)
 
 ---
 
