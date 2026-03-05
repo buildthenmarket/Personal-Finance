@@ -8,11 +8,11 @@ const config: Config = {
   title: 'Personal Finance',
   tagline: 'A comprehensive guide to personal finance',
   favicon: 'favicon.ico',
-  url: 'https://buildthenmarket.github.io',
   organizationName: 'buildthenmarket',
+  deploymentBranch: 'gh-pages',
   projectName: 'Personal-Finance',
+  url: 'https://buildthenmarket.github.io',
   baseUrl: '/Personal-Finance/',
-  deploymentBranch: 'main',
   onBrokenLinks: 'throw',
   onDuplicateRoutes: 'warn',
   markdown: {
@@ -61,7 +61,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ambitious-royalty/bag-flow/tree/main/',
+            'https://github.com/buildthenmarket/Personal-Finance/tree/main/',
         },
         blog: false, // No blog for this site
         theme: {
@@ -116,11 +116,11 @@ const config: Config = {
           items: [
             {
               label: 'Credit Cards',
-              to: '/Credit and Debt/Credit Cards',
+              to: '/Credit-And-Debt/Credit-Cards',
             },
             {
               label: 'Debt',
-              to: '/Credit and Debt',
+              to: '/Credit-And-Debt',
             },
           ],
         },
@@ -141,7 +141,7 @@ const config: Config = {
         },
         {
           label: '🤑 Spending',
-          to: '/spending', // docs/Spending/index.md
+          to: '/Spending', // docs/Spending/index.md
           position: 'left',
         }
       ]
@@ -154,7 +154,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/ambitious-royalty/bag-flow',
+              href: 'https://github.com/buildthenmarket/Personal-Finance',
             },
           ],
         },
