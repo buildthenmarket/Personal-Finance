@@ -38,4 +38,10 @@ The NAA offers a variety of educational and professional development programs, i
 
 In addition to its advocacy and educational efforts, the NAA is also involved in research and data analysis related to the multifamily industry. The organization conducts surveys and publishes reports on topics such as rental market trends, resident preferences, and industry best practices.
 
-![](/Affordable-Rent-Zip-Codes.png)
+![Affordable](/Affordable-Rent-Zip-Codes.png)
+
+## Reasons To Not Own
+
+### Why your house is a terrible investment
+
+[Why your house is a terrible investment, according to JL Collins](https://www.youtube.com/shorts/wdstqPqZI5k)
