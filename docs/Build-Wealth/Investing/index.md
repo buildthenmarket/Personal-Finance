@@ -3,7 +3,9 @@ title: 💹 Investing
 
 ---
 
-Welcome to the Investing section of the Personal Finance Guide. Here you'll find information about stocks, bonds, mutual funds, ETFs, and investment strategies.
+## investment strategies.
+
+![Investing](/intelligent-investing.png)
 
 ![The Cost of Timing the Market](/The-Real-Cost-Of-Timing-The-Market.png)
 

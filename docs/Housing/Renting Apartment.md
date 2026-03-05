@@ -8,7 +8,7 @@ What Is Rent Control? In many areas, state or local laws restrict the amount of 
 
 using accounting terminology. Please note that the following arguments are general in nature and may not apply to every individual situation:
 
-![](/Cities-With-Highest-Rent.png)
+![Highest Rent](/Cities-With-Highest-Rent.png)
 
 ### Argument for Renting an Apartment:
 
@@ -26,7 +26,7 @@ using accounting terminology. Please note that the following arguments are gener
 
 It's important to note that the decision to rent or mortgage a home depends on various factors including personal financial situation, lifestyle preferences, long-term goals, and market conditions. It is recommended to consult with a financial advisor or accountant who can provide tailored advice based on your specific circumstances.
 
-![](/Cost-To-Rent-Vs-Cost-To-Own.png)
+![Rent vs Buy Costs](/Cost-To-Rent-Vs-Cost-To-Own.png)
 
 ## What is the NAA
 
@@ -45,3 +45,5 @@ In addition to its advocacy and educational efforts, the NAA is also involved in
 ### Why your house is a terrible investment
 
 [Why your house is a terrible investment, according to JL Collins](https://www.youtube.com/shorts/wdstqPqZI5k)
+
+[![Who Can Actually Afford a $500K House in 2026](https://img.youtube.com/vi/1mIp0mUyCKU/0.jpg)](https://www.youtube.com/watch?v=1mIp0mUyCKU)

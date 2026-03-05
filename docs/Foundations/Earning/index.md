@@ -1,5 +1,7 @@
 # 💲 Earning
 
+![Types of Income](/types-of-income.png)
+
 ![Top Income By State](/Top-Income-By-State.jpg)
 
 ![Top One Percent By Age](/Top-One-Percent-Net-Worth-By-Age-2023.webp)

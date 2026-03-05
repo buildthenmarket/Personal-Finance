@@ -84,3 +84,5 @@ No financial strategy roundup would be complete without mention of Dave Ramsey. 
 Implementing these personal finance strategies can help create a healthier relationship with money, reduce financial stress, and enhance overall happiness in daily life. By focusing on intentional budgeting and mindful spending, you can achieve greater peace of mind and satisfaction with your financial decisions.
 
 ![flowchart](/Personal-Income-Spending-Flowchart.png)
+
+![Psychology of Money](/pyschology-of-money.png)
