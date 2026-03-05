@@ -1,9 +1,5 @@
 # Real Estate
 
-## security deposit
-
-2025: $500
-
 ## First-time homebuyers!  
 
 Financial literacy is essential for navigating the home buying process and ensuring long-term success as a homeowner. Here are some key topics to consider:

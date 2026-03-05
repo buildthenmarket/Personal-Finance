@@ -1,7 +1,45 @@
 ---
-title: 🏠 Housing
+title: 🏠 Homeownership
 
 ---
+
+## Strive to own your home, not rent — and try to buy in cash.
+
+## US Real Estate History
+
+### 2008 Crisis
+
+in the aftermath of the 2008 financial crisis, when the Federal Reserve took unprecedented steps to stimulate the economy and support the housing market. In December 2008, the Fed lowered the federal funds rate to a target range of 0.00-0.25%, where it remained until December 2015.
+
+During this period, mortgage rates also reached historic lows, with the average 30-year fixed-rate mortgage falling to as low as 3.31% in November 2012, according to data from Freddie Mac.
+
+![Mort Applications Chart](/Mortgage-Applications-2016-To-2022.png)
+
+### High Rates
+
+High interest rates can have a significant impact on the housing market, as they can make it more expensive for people to borrow money to buy homes. Here are some of the ways in which high interest rates can affect the housing market:
+
+1. **Reduced demand**: When interest rates are high, the cost of borrowing money to buy a home increases. This can make it more difficult for some people to afford a mortgage and can lead to a decrease in demand for homes. This can result in a slowdown in the housing market and a decrease in home prices.
+2. **Increased monthly payments**: When interest rates are high, monthly mortgage payments can increase, as borrowers will have to pay more in interest charges. This can make it more difficult for some people to afford their mortgage payments and can lead to an increase in delinquencies and foreclosures.
+3. **Decreased home affordability**: High interest rates can make homes less affordable for many buyers. This can lead to a decrease in home sales and a slowdown in the housing market.
+
+#### it's the worst time to buy a house since 1978
+
+### Seller’s Market
+
+‌A seller's market in real estate is a situation in which the demand for homes exceeds the supply, giving sellers an advantage in negotiations with potential buyers. In a seller's market, there are typically more buyers than available homes for sale, which can drive up prices and result in multiple offers on a single property.
+
+One of the key characteristics of a seller's market is low inventory, meaning that there are fewer homes available for sale than there are buyers looking to purchase them. This can be due to a variety of factors, such as a shortage of new construction, high demand for homes in a particular area, or a low interest rate environment that encourages more buyers to enter the market.
+
+In a seller's market, buyers may need to act quickly to make an offer on a home, as properties can sell very quickly and often for above the asking price. This can create a sense of urgency and competition among buyers, and may result in bidding wars for desirable properties.
+
+For sellers, a seller's market can be advantageous, as they may be able to command a higher price for their property, negotiate more favorable terms, and receive multiple offers. However, sellers should still work with a real estate professional to ensure that their property is priced competitively and marketed effectively to maximize their chances of a successful sale.
+
+Overall, a seller's market in real estate is a situation in which sellers have the upper hand due to high demand and low supply of homes for sale. This can result in higher prices and increased competition among buyers, and can be advantageous for sellers who are looking to sell their home quickly and for a good price.
+
+![Market Cycles](/Real-Estate-Market-Cycles.png)
+
+![Market Cycles](/Landlord-Chart-2012-To-2023.png)
 
 ## Maintenance
 
@@ -11,7 +49,15 @@ title: 🏠 Housing
 
 ![Cost](/Salary-Needed-To-Buy-A-Home.png)
 
-## Strive to own your home, not rent — and try to buy in cash.
+![salary to afford home mort](/Income-Required-By-State.jpg)
+
+![2025](/Income-By-State.jpg)
+
+### Home Prices
+
+US Median Home Sale Price $412k
+
+![Redfin Renters reasons unable to buy chart](/Redfin-Renters-Reasons-Unable-To-Buy-Chart.png)
 
 ## Homeownership Rate
 
@@ -88,17 +134,19 @@ Here's an overview of property tax rates in Middlesex County, New Jersey, which 
 ### **How to Find Your Specific Rate:**
 
 - **Municipal Tax Assessor’s Office**: Each town in Middlesex County has its own tax assessor. You can contact them for the most accurate, current information regarding your property’s assessed value and tax rate.
-
 - **Online Tools**: Websites like the New Jersey Department of the Treasury or local government sites might provide tools or data where you can look up your municipality's tax rate.
-
 - **Property Tax Calculators**: Some real estate websites or county resources offer calculators where you can estimate your tax based on your property's assessed value and the known tax rate.
 
 ### **Tips for Managing Property Taxes:**
 
 - **Appeal Assessments**: If you believe your property's assessed value is too high, you can appeal to the Middlesex County Tax Board.
-
 - **Stay Informed**: Property taxes can significantly impact your cost of living, so staying informed about local tax rates, exemptions, and relief programs can be beneficial.
-
 - **Budgeting**: Since property taxes are significant in NJ, they should be a key component of your home buying or owning budget.
 
 Remember, these rates and the impact of property taxes can fluctuate. For the most accurate and up-to-date information, always reach out to local authorities or check official resources. Property tax, while often a source of frustration, is crucial for funding essential services, and understanding it can help you manage your finances better as a homeowner in Middlesex County, NJ.
+
+## Inventory
+
+## Busy Season
+
+Summer Months (May - Aug) >> Busiest / Most Expensive
