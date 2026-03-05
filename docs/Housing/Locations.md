@@ -19,6 +19,14 @@ Effective March 20th, 2024, landlords and sellers are required to disclose flood
 
 ![](/Locations-Hurricane-Risk.png)
 
+## NYC
+
+![NYC aerial](/Nyc-Aerial.jpg)
+
+![NY and NJ](/Ny-Nj.jpg)
+
+![NYC price by borough](/Nyc-Price-By-Borough.png)
+
 ## HDI
 
 The Human Development Index (HDI) is a summary measure of human development that considers three dimensions: health, education, and standard of living. 
