@@ -1,4 +1,4 @@
-# HOA fees
+## HOA fees
 
 ## Lawn Care Costs (Single Family Home) vs. HOA Fees (Condo/Townhouse) in Middlesex County, NJ
 

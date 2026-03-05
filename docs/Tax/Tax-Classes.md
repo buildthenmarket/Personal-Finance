@@ -1,4 +1,4 @@
-![tax burden](static/Tax-Burden.png)
+![tax burden](/Tax-Burden.png)
 
 ## DIVERSIFY TAX CLASSES
 

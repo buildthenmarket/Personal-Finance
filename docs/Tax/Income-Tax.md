@@ -4,15 +4,15 @@
 
 ## Brackets
 
-![Marginal Brackets](static/2024-Marginal-Tax-Brackets.png)
+![Marginal Brackets](/2024-Marginal-Tax-Brackets.png)
 
 ## Withholding W4 Form
 
-![income 1](static/Image.png)
+![income 1](/Tax-Image.png)
 
-![income 2](static/Image-1.png)
+![income 2](/Image-1.png)
 
-![income 3](static/Image-2.png)
+![income 3](/Image-2.png)
 
 ## Retirement Plans and Social Security
 

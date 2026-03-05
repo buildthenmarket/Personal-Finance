@@ -16,7 +16,7 @@
 
 ## livable annual income
 
-![cost of living for a single person in 2024](static/Individual-Minimum-Comfortable-Income.png)
+![cost of living for a single person in 2024](/Individual-Minimum-Comfortable-Income.png)
 
 * **Cost of Living:** New Jersey has a cost of living approximately 19.8% higher than the national average as of early 2025. Housing is a major factor, being about 30% higher than the U.S. average.
 * **MIT Living Wage Calculation:** According to the MIT Living Wage Calculator, the estimated living wage for a single adult in New Jersey is **\$26.20 per hour**. This calculates to an annual income of approximately **\$54,503** before taxes, based on a full-time work year. This wage covers basic necessities but may not include savings, debt repayment, or unexpected expenses.

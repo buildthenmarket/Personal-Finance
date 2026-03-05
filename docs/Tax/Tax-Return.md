@@ -1,4 +1,4 @@
-![Tax Return Checklist](static/Tax-Checklist.png)
+![Tax Return Checklist](/Tax-Checklist.png)
 
 Understanding how tax extensions work is crucial for individual tax returns. Here's a breakdown of the key points:
 
