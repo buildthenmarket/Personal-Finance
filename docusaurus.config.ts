@@ -86,13 +86,88 @@ const config: Config = {
       title: '💰 Personal Finance Guide 📊',
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          type: 'dropdown',
+          label: '📘 Foundations',
           position: 'left',
+          items: [
+            {
+              label: 'Home',
+              to: '/',
+            },
+            {
+              label: 'Earning',
+              to: '/Earning',
+            },
+            {
+              label: 'Spending',
+              to: '/Spending',
+            },
+            {
+              label: 'Credit and Debt',
+              to: '/Credit-And-Debt',
+            },
+            {
+              label: 'Accounting',
+              to: '/Accounting',
+            },
+          ],
         },
         {
           type: 'dropdown',
-          label: '📚 Learning',
+          label: '📈 Build Wealth',
+          position: 'left',
+          items: [
+            {
+              label: 'Investing',
+              to: '/Investing',
+            },
+            {
+              label: 'Retirement',
+              to: '/Retirement',
+            },
+            {
+              label: 'Crypto',
+              to: '/Crypto',
+            },
+          ],
+        },
+        {
+          type: 'dropdown',
+          label: '🛡️ Protect Wealth',
+          position: 'left',
+          items: [
+            {
+              label: 'Tax',
+              to: '/Tax/Income-Tax',
+            },
+            {
+              label: 'Healthcare',
+              to: '/Healthcare',
+            },
+            {
+              label: 'Life Event',
+              to: '/Life-Event/Divorce',
+            },
+          ],
+        },
+        {
+          type: 'dropdown',
+          label: '🏠 Housing',
+          position: 'left',
+          items: [
+            {
+              label: 'Real Estate',
+              to: '/Housing/Real-Estate',
+            },
+            {
+              label: 'Locations',
+              to: '/Housing/Locations',
+            },
+          ],
+        },
+        {
+          type: 'dropdown',
+          label: '📚 Reference',
           position: 'left',
           items: [
             {
@@ -104,45 +179,10 @@ const config: Config = {
               to: '/Links', // docs/Links.md
             },
             {
-              label: 'Tools',
-              to: '/Tools', // docs/Tools.md
-            }
-          ],
-        },
-        {
-          type: 'dropdown',
-          label: '💳 Credit and Debt',
-          position: 'left',
-          items: [
-            {
-              label: 'Credit Cards',
-              to: '/Credit-And-Debt/Credit-Cards',
-            },
-            {
-              label: 'Debt',
-              to: '/Credit-And-Debt',
+              label: 'Travel',
+              to: '/Travel',
             },
           ],
-        },
-        {
-          type: 'dropdown',
-          label: '🏦 Saving and Investing',
-          position: 'left',
-          items: [
-            {
-              label: 'Retirement',
-              to: '/Retirement',
-            },
-            {
-              label: 'Investing',
-              to: '/Investing', // docs/Investing/index.md
-            }
-          ],
-        },
-        {
-          label: '🤑 Spending',
-          to: '/Spending', // docs/Spending/index.md
-          position: 'left',
         }
       ]
     },
