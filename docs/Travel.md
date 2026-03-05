@@ -1,3 +1,31 @@
+# ✈️ Travel
+
+## Destinations
+
+- MIA
+- Amsterdam
+- chicago - SG Beatz
+- Maldives
+- Belize
+- LA
+
+[https://www.instagram.com/reel/DBmTmYiyL4J/](https://www.instagram.com/reel/DBmTmYiyL4J/)
+
+## 🏨 Hotels
+
+## Booking a Hotel at Night
+
+Booking a hotel at late night in big tourist cities can be challenging due to the high demand and limited availability. However, there are several strategies you can use to secure a room:
+
+- **Contact the Hotel Directly**: The easiest and most effective way is to call the hotel directly. This allows you to speak with a real person who can often make exceptions to hotel rules and accommodate your needs. Have your arrival and departure information ready when you call.
+  
+- **Reset Your Device Clock**: If you prefer to book online, you can reset the clock on your smart device to a time earlier than midnight. This can sometimes allow you to make a reservation through the hotel's online system. However, this method is less reliable than contacting the hotel directly.
+
+- **Inform the Hotel About Your Late Arrival**: If you know you will be arriving late, it's a good idea to inform the hotel in advance. This ensures they will hold your room for you and can prepare for your late check-in.
+
+- **Negotiate a Rate**: When contacting the hotel, you can negotiate a rate based on the fact that you are checking in so late. Hotels may be willing to offer a discounted rate to secure your booking.
+
+- **Check Hotel Policies**: Before booking, review the hotel's check-in policies. Some hotels have specific times for check-in and may require late arrivals to contact them directly.
 ---
 title: Flights
 sidebar_label: Flights
@@ -35,6 +63,9 @@ flights.google.com
 [IndiGo](https://www.goindigo.in/)
 
 ## VPN
+
+**clear cookies / use incognito**
+**use VPN to check lower prices**
 
 ### using VPN to buy cheaper flight tickets
 
@@ -91,3 +122,59 @@ When choosing a suitcase cover, consider the following factors:
 - **Style**: Choose a cover that complements your suitcase's design and color scheme.
 
 By using a suitcase cover, you can enjoy peace of mind knowing your luggage is protected from scratches and damage, making your travels smoother and more enjoyable.
+
+## Phone roaming
+
+### Verizon
+
+bill date / statement date 16th of each month
+
+| Choices | Cost  | Limits |
+| --- | --- | --- |
+| TravelPass | charged daily, activates automatically $12 * 14 days > $168 | 5gb / day, then reduced to 3g speeds |
+| int'l monthly plan $100 | 30 days then expires | same data 5gb / day then reduced to 3g speeds. calls > 250 mins / mo, unlimited calls back to USA |
+| unlimited ultimate | + $10/mo | global choice country, calls from USA to india 300 mins monthly allowance, 60 gb. calls while inside india back to US |
+| unlimited Plus | | |
+| unlimited welcome |||
+| 4g LTE / 5g data  in hyderabad | | |
+| Unlimited premium mobile hotspot data (60GB per month) | | |
+
+### Roam internationally with your Phone
+
+- Carriers might include international roaming on select data plans without additional fees.
+- Alternatively, your carrier might offer affordable travel passes or plans that you can purchase ahead of time to use at your destination.
+- International roaming with an eSIM works the same as roaming with a physical SIM.
+- Your carrier might offer the ability to digitally manage your eSIM plan and add more data as needed.
+
+- To learn more, contact your carrier.
+- [airalo](https://www.airalo.com/)
+- [yesim](https://yesim.app/)
+
+## Hotels
+
+- don't use tripadvisor/trivago because sponsored rating and spam reduces quality
+
+- booking.com
+  - variety
+  - 30M listings (includes airBnB)
+- expedia
+- hotels.com (owned by expedia group)
+- [hotwire](https://www.youtube.com/watch?v=ZxFakjps77o)
+- https://www.gosplitty.com/
+
+## Credit Card
+
+### foreign transaction fee
+
+- POS point of sale > 3% foreign transaction fee
+- ATM $5.00 fee + 3% foreign conversion + ATM owner fees
+
+### Rewards
+
+- get a credit card or take 15 round trips
+
+[Table of Contents ⬆️](#table-of-contents)
+
+## APPs
+
+Viator Tours & Attractions

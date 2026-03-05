@@ -64,3 +64,5 @@ sidebar_label: Terms
 | ETFs | An **ETF (Exchange-Traded Fund)** is a diversified collection of assets—like stocks, bonds, or commodities—into a single ticker you can trade on an exchange just like an individual stock. It functions like a modular library for your portfolio, offering instant diversification and high liquidity with generally lower overhead than traditional mutual funds. |
 
 ![asset](/Asset-Classes.png)
+
+![Financial Literacy](/Financial-Literacy.jpg)
