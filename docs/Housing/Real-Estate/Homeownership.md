@@ -49,6 +49,8 @@ Overall, a seller's market in real estate is a situation in which sellers have t
 
 ![Cost](/Salary-Needed-To-Buy-A-Home.png)
 
+- 1 out of 3 homes gets sold over asking price
+
 ![salary to afford home mort](/Income-Required-By-State.jpg)
 
 ![2025](/Income-By-State.jpg)
