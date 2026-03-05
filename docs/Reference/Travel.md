@@ -173,8 +173,6 @@ bill date / statement date 16th of each month
 
 - get a credit card or take 15 round trips
 
-[Table of Contents ⬆️](#table-of-contents)
-
 ## APPs
 
 Viator Tours & Attractions

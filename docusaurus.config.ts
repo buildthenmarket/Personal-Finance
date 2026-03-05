@@ -96,19 +96,19 @@ const config: Config = {
             },
             {
               label: 'Earning',
-              to: '/Earning',
+              to: '/Foundations/Earning',
             },
             {
               label: 'Spending',
-              to: '/Spending',
+              to: '/Foundations/Spending',
             },
             {
               label: 'Credit and Debt',
-              to: '/Credit-And-Debt',
+              to: '/Foundations/Credit-And-Debt',
             },
             {
               label: 'Accounting',
-              to: '/Accounting',
+              to: '/Foundations/Accounting',
             },
           ],
         },
@@ -119,15 +119,15 @@ const config: Config = {
           items: [
             {
               label: 'Investing',
-              to: '/Investing',
+              to: '/Build-Wealth/Investing',
             },
             {
               label: 'Retirement',
-              to: '/Retirement',
+              to: '/Build-Wealth/Retirement',
             },
             {
               label: 'Crypto',
-              to: '/Crypto',
+              to: '/Build-Wealth/Crypto',
             },
           ],
         },
@@ -138,15 +138,15 @@ const config: Config = {
           items: [
             {
               label: 'Tax',
-              to: '/Tax/Income-Tax',
+              to: '/Protect-Wealth/Tax/Income-Tax',
             },
             {
               label: 'Healthcare',
-              to: '/Healthcare',
+              to: '/Protect-Wealth/Healthcare',
             },
             {
               label: 'Life Event',
-              to: '/Life-Event/Divorce',
+              to: '/Protect-Wealth/Life-Event/Divorce',
             },
           ],
         },
@@ -172,15 +172,15 @@ const config: Config = {
           items: [
             {
               label: 'Terms',
-              to: '/Terms', // docs/Terms.md
+              to: '/Reference/Terms',
             },
             {
               label: 'Links',
-              to: '/Links', // docs/Links.md
+              to: '/Reference/Links',
             },
             {
               label: 'Travel',
-              to: '/Travel',
+              to: '/Reference/Travel',
             },
           ],
         }
