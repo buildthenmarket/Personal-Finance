@@ -20,3 +20,10 @@ Determining the credibility of smaller and local banks in the US can be an impor
 6. Talk to the bank's employees: Consider visiting the bank and talking to its employees to get a sense of their knowledge, professionalism, and customer service skills.
 
 By taking these steps, you can help ensure that the smaller or local bank you choose is reputable and trustworthy, and that your money is safe and secure.
+
+## Saving Timeframes
+
+| Time | Account |
+| --- | --- |
+| Savings Account | &lt;1yr |
+| CDs | 1 - 5 yrs |
