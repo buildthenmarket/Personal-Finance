@@ -7,6 +7,13 @@ sidebar_label: Terms
 
 | Terms | Definitions |
 | --- | --- |
+| **Emergency Fund:** | Build a healthy emergency fund to cover unexpected expenses like car repairs or medical bills. Aim for 3-6 months of living expenses in a highly liquid savings account. |
+| **Burn rate** | how fast you're actually spending monthly, the flip side of runway. |
+| Savings rate | percentage of income you stash away; fuels longer runway. |
+| **negative cash flow** | or "running on fumes"—basically, you're bleeding money faster than you earn it, eating through your emergency fund |
+| **Budget variance** | the gap between planned spending and real numbers—shows if you're on track. |
+| **Cash Reserves** | Cash reserves are money set aside in liquid form—like savings or checking accounts—to cover emergencies or short-term needs without borrowing. |
+| Cash Runway | the number of months your savings can cover expenses before you run dry. |
 | Expenditure | Expenditure is the total amount of money spent on goods, services, or other costs during a specific period. |
 | Profit & Loss Statement | for a timeframe |
 | Balance Sheet | snapshot |

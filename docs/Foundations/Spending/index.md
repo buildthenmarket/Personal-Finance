@@ -61,10 +61,6 @@ As a simpler alternative, some [recommend simplifying this to an “80/20" rule]
 
 primary goal is to minimize risk and prioritize capital preservation, then focus on stability and security with some potential for growth.
 
-**Emergency Fund:**
-
-- Build a healthy emergency fund to cover unexpected expenses like car repairs or medical bills. Aim for 3-6 months of living expenses in a highly liquid savings account. This acts as a buffer and prevents you from needing to tap into your investments during emergencies.
-
 **High-Yield Savings Accounts:**
 
 - Park a portion of your money in high-yield savings accounts. These accounts offer a slightly higher interest rate than traditional savings accounts, while still maintaining easy access to your money.

@@ -7,6 +7,10 @@ displayed_sidebar: tutorialSidebar
 
 ![rules](/Personal-Finance.png)
 
+## 5 Level Risk Pyramid
+
+![5 Level Risk Pyramid](/5-Level-Risk-Pyramid.png)
+
 ![checklist](/Personal-Finance-Checklist.png)
 
 ![basic](/10-Step-List.png)
@@ -43,10 +47,6 @@ No financial strategy roundup would be complete without mention of Dave Ramsey. 
 
 1. Build wealth and donate.
 
-## 5 Level Risk Pyramid
-
-![5 Level Risk Pyramid](/5-Level-Risk-Pyramid.png)
-
 ## Personal Finance Terms and Strategies
 
 1. **Zero-Based Budgeting:**
@@ -55,28 +55,25 @@ No financial strategy roundup would be complete without mention of Dave Ramsey. 
 2. **50/30/20 Rule:**
    - A simple budgeting guideline that suggests allocating 50% of your income to needs, 30% to wants, and 20% to savings or debt repayment. This balance can promote financial stability and happiness.
 
-3. **Emergency Fund:**
-   - A savings fund set aside for unexpected expenses. Having an emergency fund can provide peace of mind and reduce stress during financial uncertainties.
-
-4. **Mindful Spending:**
+3. **Mindful Spending:**
    - Being conscious of your spending habits and making intentional choices about purchases. This practice encourages spending on things that genuinely bring joy and satisfaction.
 
-5. **Cash Envelopes:**
+4. **Cash Envelopes:**
    - A physical budgeting method where cash is allocated to different spending categories (e.g., groceries, entertainment) in separate envelopes. Once the cash is gone, no more spending occurs in that category.
 
-6. **Sinking Funds:**
+5. **Sinking Funds:**
    - Savings set aside for specific future expenses (e.g., vacations, holidays, car repairs). This strategy helps avoid financial stress when these expenses arise.
 
-7. **Needs vs. Wants Analysis:**
+6. **Needs vs. Wants Analysis:**
    - A practice of distinguishing between essential expenses (needs) and discretionary spending (wants). This clarity can help prioritize spending and enhance satisfaction.
 
-8. **Spending Freeze:**
+7. **Spending Freeze:**
    - A temporary halt on non-essential spending to focus on saving or paying down debt. This can create a sense of financial control and relief.
 
-9. **Gratitude Journaling:**
+8. **Gratitude Journaling:**
    - Keeping a journal to note things you are thankful for, particularly related to your finances. This practice can enhance happiness and perspective on what you have versus what you want.
 
-10. **Value-Based Spending:**
+9. **Value-Based Spending:**
     - Aligning your spending with your personal values and priorities. This approach fosters a sense of fulfillment by ensuring that your money goes towards what truly matters to you.
 
 ### Summary
