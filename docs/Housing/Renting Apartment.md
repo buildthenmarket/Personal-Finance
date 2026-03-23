@@ -1,3 +1,5 @@
+## define what is affordable for you
+
 ![reasons](/Reasons-People-Arent-Buying.png)
 
 ## Rent Control
