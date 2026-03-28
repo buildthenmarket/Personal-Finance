@@ -149,6 +149,8 @@ Market leadership can be a powerful position, but it also comes with challenges.
 
 ## Inflation Terms
 
+![4 phases](/four-phases-economic-cycle.png)
+
 ### Market Cycles / Events 1977, 2022 Stagflation
 
 ### Sticky Inflation

@@ -67,3 +67,5 @@ Approaches in either stock or mutual fund investing. Growth investors look for c
 ### Which one has better performance?
 
 ## Investment Growth Assessment
+
+![large firms](largest-firms.jpg)
